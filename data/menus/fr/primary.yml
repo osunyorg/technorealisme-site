@@ -10,7 +10,7 @@ items:
   kind: page
   children:
   - title: Introduction
-    target: "/manifeste-technorealiste-sur-lia/"
+    target: "/manifeste-technorealiste-sur-lia/introduction/"
     kind: page
     children: []
   - title: À l’encontre de quelques lubies dominantes sur l’IA
