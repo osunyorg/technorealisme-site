@@ -16,3 +16,6 @@ params:
   logo:
     header: "/assets/images/logo.svg"
     footer: "/assets/images/icon-white.svg"
+  pages:
+    index:
+      truncate_description: 0
