@@ -14,8 +14,8 @@ items:
     kind: page
     children: []
   - title: À l’encontre de quelques lubies dominantes sur l’IA
-    target: ''
-    kind: blank
+    target: "/manifeste-technorealiste-sur-lia/a-lencontre-de-quelques-lubies-dominantes-sur-lia/"
+    kind: page
     children:
     - title: L’IA comme algorithme
       target: "/manifeste-technorealiste-sur-lia/lia-comme-algorithme/"
