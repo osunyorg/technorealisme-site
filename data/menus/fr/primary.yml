@@ -17,4 +17,8 @@ items:
       target: "/manifeste-technorealiste-sur-lia/lia-comme-algorithme/"
       kind: page
       children: []
+  - title: Introduction
+    target: "/manifeste-technorealiste-sur-lia/"
+    kind: page
+    children: []
 
