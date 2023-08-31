@@ -2,7 +2,7 @@
 title: Menu principal
 items:
 - title: Actualités
-  target: "/actualites/"
+  target: "/discussions/"
   kind: page
   children: []
 - title: Manifeste technoréaliste sur l’IA
