@@ -8,3 +8,14 @@ html.has-modal-opened,
 html.has-offcanvas-opened
     body::after
         mix-blend-mode: screen
+
+body.full-width 
+    .block-pages--list 
+        .block-content 
+            ul
+                padding-left: $spacing1
+                li 
+                    position: relative
+                    a::before
+                        position: absolute
+                        left: -29px
