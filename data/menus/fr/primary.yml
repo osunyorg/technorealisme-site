@@ -1,10 +1,6 @@
 ---
 title: Menu principal
 items:
-- title: Actualités
-  target: "/discussions/"
-  kind: page
-  children: []
 - title: Manifeste technoréaliste sur l’IA
   target: "/manifeste-technorealiste-sur-lia/"
   kind: page
@@ -21,4 +17,8 @@ items:
       target: "/manifeste-technorealiste-sur-lia/a-lencontre-de-quelques-lubies-dominantes-sur-lia/lia-comme-algorithme/"
       kind: page
       children: []
+- title: Discussions
+  target: "/discussions/"
+  kind: page
+  children: []
 
