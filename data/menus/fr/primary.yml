@@ -20,5 +20,9 @@ items:
 - title: Manifeste technoréaliste sur l’IA
   target: "/manifeste-technorealiste-sur-lia/"
   kind: page
-  children: []
+  children:
+  - title: L’IA comme algorithme
+    target: "/manifeste-technorealiste-sur-lia/lia-comme-algorithme/"
+    kind: page
+    children: []
 
