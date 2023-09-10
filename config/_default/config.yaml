@@ -10,7 +10,7 @@ deployment:
 
 params:
   breadcrumb:
-    # position: after-hero
+    position: hero-start
   summary:
     position: hero
   logo:
