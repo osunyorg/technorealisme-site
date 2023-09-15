@@ -112,6 +112,10 @@ items:
       target: "/manifeste-technorealiste-sur-lia/vers-une-ia-de-qualite/le-postulat-des-ressources-illimitees-pri/"
       kind: page
       children: []
+    - title: Les opportunités théoriques de l’IA
+      target: "/manifeste-technorealiste-sur-lia/vers-une-ia-de-qualite/les-opportunites-theoriques-de-lia/"
+      kind: page
+      children: []
 - title: Discussions
   target: "/discussions/"
   kind: page
