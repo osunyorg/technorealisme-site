@@ -128,6 +128,10 @@ items:
     target: "/manifeste-technorealiste-sur-lia/que-faire-et-comment-agir/"
     kind: page
     children: []
+  - title: Équipe éditoriale
+    target: "/manifeste-technorealiste-sur-lia/equipe-editoriale/"
+    kind: page
+    children: []
   - title: Discussions
     target: "/discussions/"
     kind: page
@@ -140,8 +144,4 @@ items:
       target: "/discussions/discussion-en-cours-sur-la-carte-et-le-territoire/"
       kind: page
       children: []
-  - title: Équipe éditoriale
-    target: "/manifeste-technorealiste-sur-lia/equipe-editoriale/"
-    kind: page
-    children: []
 
