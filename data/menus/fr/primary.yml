@@ -132,6 +132,10 @@ items:
     target: "/manifeste-technorealiste-sur-lia/equipe-editoriale/"
     kind: page
     children: []
+  - title: Discussions
+    target: "/discussions/"
+    kind: page
+    children: []
 - title: Discussions
   target: "/discussions/"
   kind: page
