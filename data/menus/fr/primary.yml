@@ -8,7 +8,11 @@ items:
   - title: Discussions
     target: "/discussions/"
     kind: page
-    children: []
+    children:
+    - title: Discussion en cours sur "IA et algorithmie"
+      target: "/discussions/discussion-en-cours-sur-ia-et-algorithmie/"
+      kind: page
+      children: []
   - title: Dix leçons sur l'IA, à l'usage des honnêtes gens
     target: "/manifeste-technorealiste-sur-lia/introduction/dix-lecons-sur-lia-a-lusage-des-honnetes-gens/"
     kind: page
