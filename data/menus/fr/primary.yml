@@ -80,6 +80,10 @@ items:
       target: "/manifeste-technorealiste-sur-lia/pour-une-meilleure-description-de-lia/les-programmes-dia-dans-le-cadre-de-processus-metier/"
       kind: page
       children: []
+    - title: Les programmes d’IA sur des ordinateurs
+      target: "/manifeste-technorealiste-sur-lia/pour-une-meilleure-description-de-lia/les-programmes-dia-sur-des-ordinateurs/"
+      kind: page
+      children: []
   - title: Vers une IA de qualité
     target: "/manifeste-technorealiste-sur-lia/vers-une-ia-de-qualite/"
     kind: page
