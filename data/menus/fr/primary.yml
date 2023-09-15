@@ -13,14 +13,14 @@ items:
     target: "/manifeste-technorealiste-sur-lia/a-lencontre-de-quelques-lubies-dominantes-sur-lia/"
     kind: page
     children:
-    - title: L’IA comme algorithme
-      target: "/manifeste-technorealiste-sur-lia/a-lencontre-de-quelques-lubies-dominantes-sur-lia/des-notions-contestables-inutiles-voire-trompeuses/lia-comme-algorithme/"
-      kind: page
-      children: []
     - title: Des notions contestables
       target: "/manifeste-technorealiste-sur-lia/a-lencontre-de-quelques-lubies-dominantes-sur-lia/des-notions-contestables-inutiles-voire-trompeuses/"
       kind: page
-      children: []
+      children:
+      - title: L’IA comme algorithme
+        target: "/manifeste-technorealiste-sur-lia/a-lencontre-de-quelques-lubies-dominantes-sur-lia/des-notions-contestables-inutiles-voire-trompeuses/lia-comme-algorithme/"
+        kind: page
+        children: []
     - title: Des discours tronqués
       target: "/manifeste-technorealiste-sur-lia/a-lencontre-de-quelques-lubies-dominantes-sur-lia/des-discours-tronques/"
       kind: page
