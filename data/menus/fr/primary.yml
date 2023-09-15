@@ -33,6 +33,10 @@ items:
         target: "/manifeste-technorealiste-sur-lia/a-lencontre-de-quelques-lubies-dominantes-sur-lia/des-notions-contestables-inutiles-voire-trompeuses/les-modeles-dia-lillusion-de-familiarite/"
         kind: page
         children: []
+      - title: L’IA comme outil
+        target: "/manifeste-technorealiste-sur-lia/a-lencontre-de-quelques-lubies-dominantes-sur-lia/des-notions-contestables-inutiles-voire-trompeuses/lia-comme-outil-lillusion-du-controle/"
+        kind: page
+        children: []
     - title: Des discours tronqués
       target: "/manifeste-technorealiste-sur-lia/a-lencontre-de-quelques-lubies-dominantes-sur-lia/des-discours-tronques/"
       kind: page
