@@ -120,6 +120,10 @@ items:
       target: "/manifeste-technorealiste-sur-lia/vers-une-ia-de-qualite/les-risques-theoriques-de-lia/"
       kind: page
       children: []
+    - title: Les bénéfices concrets que l’on peut espérer
+      target: "/manifeste-technorealiste-sur-lia/vers-une-ia-de-qualite/les-benefices-concrets-que-lon-peut-esperer/"
+      kind: page
+      children: []
 - title: Discussions
   target: "/discussions/"
   kind: page
