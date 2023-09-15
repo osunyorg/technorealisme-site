@@ -21,6 +21,10 @@ items:
         target: "/manifeste-technorealiste-sur-lia/a-lencontre-de-quelques-lubies-dominantes-sur-lia/des-notions-contestables-inutiles-voire-trompeuses/lia-comme-algorithme/"
         kind: page
         children: []
+      - title: L’IA comme système
+        target: "/manifeste-technorealiste-sur-lia/a-lencontre-de-quelques-lubies-dominantes-sur-lia/des-notions-contestables-inutiles-voire-trompeuses/lia-comme-systeme-lillusion-de-cloisonnement/"
+        kind: page
+        children: []
     - title: Des discours tronqués
       target: "/manifeste-technorealiste-sur-lia/a-lencontre-de-quelques-lubies-dominantes-sur-lia/des-discours-tronques/"
       kind: page
