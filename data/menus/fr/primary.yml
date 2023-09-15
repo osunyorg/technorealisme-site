@@ -59,6 +59,11 @@ items:
         target: "/manifeste-technorealiste-sur-lia/a-lencontre-de-quelques-lubies-dominantes-sur-lia/des-discours-tronques/velleites-de-regulation-a-partir-des-notions-contestables-de-systeme-dautonomie-etc/"
         kind: page
         children: []
+      - title: Prédictions générales sur la fin du travail (ou sa transformation)
+          à cause de l’IA
+        target: "/manifeste-technorealiste-sur-lia/a-lencontre-de-quelques-lubies-dominantes-sur-lia/des-discours-tronques/predictions-generales-sur-la-fin-du-travail-ou-sa-transformation-a-cause-de-lia/"
+        kind: page
+        children: []
   - title: Dix leçons sur l'IA, à l'usage des honnêtes gens
     target: "/manifeste-technorealiste-sur-lia/dix-lecons-sur-lia-a-lusage-des-honnetes-gens/"
     kind: page
