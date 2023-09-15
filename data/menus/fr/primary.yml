@@ -116,6 +116,10 @@ items:
       target: "/manifeste-technorealiste-sur-lia/vers-une-ia-de-qualite/les-opportunites-theoriques-de-lia/"
       kind: page
       children: []
+    - title: Les risques théoriques de l’IA
+      target: "/manifeste-technorealiste-sur-lia/vers-une-ia-de-qualite/les-risques-theoriques-de-lia/"
+      kind: page
+      children: []
 - title: Discussions
   target: "/discussions/"
   kind: page
