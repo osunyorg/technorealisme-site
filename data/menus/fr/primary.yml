@@ -124,6 +124,10 @@ items:
       target: "/manifeste-technorealiste-sur-lia/vers-une-ia-de-qualite/les-benefices-concrets-que-lon-peut-esperer/"
       kind: page
       children: []
+    - title: Les inconvénients et dangers concrets que l’on doit redouter
+      target: "/manifeste-technorealiste-sur-lia/vers-une-ia-de-qualite/les-inconvenients-et-dangers-concrets-que-lon-doit-redouter/"
+      kind: page
+      children: []
 - title: Discussions
   target: "/discussions/"
   kind: page
