@@ -5,10 +5,6 @@ items:
   target: "/manifeste-technorealiste-sur-lia/"
   kind: page
   children:
-  - title: Introduction
-    target: "/manifeste-technorealiste-sur-lia/introduction/"
-    kind: page
-    children: []
   - title: Dix leçons sur l'IA, à l'usage des honnêtes gens
     target: "/manifeste-technorealiste-sur-lia/dix-lecons-sur-lia-a-lusage-des-honnetes-gens/"
     kind: page
