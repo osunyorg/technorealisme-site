@@ -100,6 +100,10 @@ items:
       target: "/manifeste-technorealiste-sur-lia/pour-une-meilleure-description-de-lia/lecriture-par-lia-de-son-propre-code/"
       kind: page
       children: []
+    - title: L’IA frugale
+      target: "/manifeste-technorealiste-sur-lia/pour-une-meilleure-description-de-lia/lia-frugale/"
+      kind: page
+      children: []
   - title: Vers une IA de qualité
     target: "/manifeste-technorealiste-sur-lia/vers-une-ia-de-qualite/"
     kind: page
