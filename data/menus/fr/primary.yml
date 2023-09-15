@@ -107,7 +107,11 @@ items:
   - title: Vers une IA de qualité
     target: "/manifeste-technorealiste-sur-lia/vers-une-ia-de-qualite/"
     kind: page
-    children: []
+    children:
+    - title: Le postulat des ressources illimitées PRI
+      target: "/manifeste-technorealiste-sur-lia/vers-une-ia-de-qualite/le-postulat-des-ressources-illimitees-pri/"
+      kind: page
+      children: []
 - title: Discussions
   target: "/discussions/"
   kind: page
