@@ -21,6 +21,10 @@ items:
     target: "/manifeste-technorealiste-sur-lia/dix-lecons-sur-lia-a-lusage-des-honnetes-gens/"
     kind: page
     children: []
+  - title: Pour une meilleure description de l'IA
+    target: "/manifeste-technorealiste-sur-lia/pour-une-meilleure-description-de-lia/"
+    kind: page
+    children: []
 - title: Discussions
   target: "/discussions/"
   kind: page
