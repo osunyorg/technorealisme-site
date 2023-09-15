@@ -29,6 +29,10 @@ items:
         target: "/manifeste-technorealiste-sur-lia/a-lencontre-de-quelques-lubies-dominantes-sur-lia/des-notions-contestables-inutiles-voire-trompeuses/lia-autonome-et-automatique-lillusion-du-vivant/"
         kind: page
         children: []
+      - title: Les modèles d’IA
+        target: "/manifeste-technorealiste-sur-lia/a-lencontre-de-quelques-lubies-dominantes-sur-lia/des-notions-contestables-inutiles-voire-trompeuses/les-modeles-dia-lillusion-de-familiarite/"
+        kind: page
+        children: []
     - title: Des discours tronqués
       target: "/manifeste-technorealiste-sur-lia/a-lencontre-de-quelques-lubies-dominantes-sur-lia/des-discours-tronques/"
       kind: page
