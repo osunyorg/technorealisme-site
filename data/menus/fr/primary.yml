@@ -9,18 +9,6 @@ items:
     target: "/manifeste-technorealiste-sur-lia/introduction/dix-lecons-sur-lia-a-lusage-des-honnetes-gens/"
     kind: page
     children: []
-  - title: Discussions
-    target: "/discussions/"
-    kind: page
-    children:
-    - title: Discussion en cours sur "IA et algorithmie"
-      target: "/discussions/discussion-en-cours-sur-ia-et-algorithmie/"
-      kind: page
-      children: []
-    - title: Discussion en cours sur "La carte et le territoire"
-      target: "/discussions/discussion-en-cours-sur-la-carte-et-le-territoire/"
-      kind: page
-      children: []
   - title: À l’encontre de quelques lubies dominantes sur l’IA
     target: "/manifeste-technorealiste-sur-lia/a-lencontre-de-quelques-lubies-dominantes-sur-lia/"
     kind: page
@@ -110,6 +98,18 @@ items:
       children: []
     - title: L’IA frugale
       target: "/manifeste-technorealiste-sur-lia/pour-une-meilleure-description-de-lia/lia-frugale/"
+      kind: page
+      children: []
+  - title: Discussions
+    target: "/discussions/"
+    kind: page
+    children:
+    - title: Discussion en cours sur "IA et algorithmie"
+      target: "/discussions/discussion-en-cours-sur-ia-et-algorithmie/"
+      kind: page
+      children: []
+    - title: Discussion en cours sur "La carte et le territoire"
+      target: "/discussions/discussion-en-cours-sur-la-carte-et-le-territoire/"
       kind: page
       children: []
   - title: Vers une IA de qualité
