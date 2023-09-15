@@ -41,6 +41,10 @@ items:
         target: "/manifeste-technorealiste-sur-lia/a-lencontre-de-quelques-lubies-dominantes-sur-lia/des-notions-contestables-inutiles-voire-trompeuses/lia-et-la-decision-lillusion-de-la-raison/"
         kind: page
         children: []
+      - title: Les données de l’IA
+        target: "/manifeste-technorealiste-sur-lia/a-lencontre-de-quelques-lubies-dominantes-sur-lia/des-notions-contestables-inutiles-voire-trompeuses/les-donnees-de-lia-lillusion-du-consentement/"
+        kind: page
+        children: []
     - title: Des discours tronqués
       target: "/manifeste-technorealiste-sur-lia/a-lencontre-de-quelques-lubies-dominantes-sur-lia/des-discours-tronques/"
       kind: page
