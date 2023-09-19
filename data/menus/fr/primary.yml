@@ -129,7 +129,7 @@ items:
   kind: page
   children: []
 - title: Équipe éditoriale
-  target: "/manifeste-technorealiste-sur-lia/equipe-editoriale/"
+  target: "/equipe-editoriale/"
   kind: page
   children: []
 - title: Discussions
