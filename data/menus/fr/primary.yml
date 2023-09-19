@@ -124,18 +124,6 @@ items:
       target: "/manifeste-technorealiste-sur-lia/vers-une-ia-de-qualite/les-inconvenients-et-dangers-concrets-que-lon-doit-redouter/"
       kind: page
       children: []
-  - title: Discussions
-    target: "/discussions/"
-    kind: page
-    children:
-    - title: Discussion en cours sur "IA et algorithmie"
-      target: "/discussions/discussion-en-cours-sur-ia-et-algorithmie/"
-      kind: page
-      children: []
-    - title: Discussion en cours sur "La carte et le territoire"
-      target: "/discussions/discussion-en-cours-sur-la-carte-et-le-territoire/"
-      kind: page
-      children: []
 - title: Que faire, et comment agir?
   target: "/manifeste-technorealiste-sur-lia/que-faire-et-comment-agir/"
   kind: page
@@ -144,4 +132,16 @@ items:
   target: "/manifeste-technorealiste-sur-lia/equipe-editoriale/"
   kind: page
   children: []
+- title: Discussions
+  target: "/discussions/"
+  kind: page
+  children:
+  - title: Discussion en cours sur "IA et algorithmie"
+    target: "/discussions/discussion-en-cours-sur-ia-et-algorithmie/"
+    kind: page
+    children: []
+  - title: Discussion en cours sur "La carte et le territoire"
+    target: "/discussions/discussion-en-cours-sur-la-carte-et-le-territoire/"
+    kind: page
+    children: []
 
