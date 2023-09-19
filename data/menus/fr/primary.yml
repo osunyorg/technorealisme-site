@@ -5,6 +5,10 @@ items:
   target: "/manifeste-technorealiste-sur-lia/"
   kind: page
   children:
+  - title: Le manifeste
+    target: "/manifeste-technorealiste-sur-lia/"
+    kind: page
+    children: []
   - title: Introduction
     target: "/manifeste-technorealiste-sur-lia/introduction/"
     kind: page
@@ -128,10 +132,6 @@ items:
       target: "/manifeste-technorealiste-sur-lia/vers-une-ia-de-qualite/les-inconvenients-et-dangers-concrets-que-lon-doit-redouter/"
       kind: page
       children: []
-  - title: Le manifeste
-    target: "/manifeste-technorealiste-sur-lia/"
-    kind: page
-    children: []
 - title: Que faire, et comment agir?
   target: "/que-faire-et-comment-agir/"
   kind: page
