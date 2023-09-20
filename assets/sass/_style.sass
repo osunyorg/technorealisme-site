@@ -10,6 +10,36 @@ html.has-offcanvas-opened
         mix-blend-mode: hard-light
         opacity: 0.9
 
+.block-pages,
+.block-posts
+    article
+        &:hover, 
+        &:focus
+            .media
+                filter: none
+                picture
+                    mix-blend-mode: normal
+        .media
+            transition: filter 0.5s ease
+            background: url(/assets/images/noise.svg)
+            filter: saturate(0) contrast(4)
+            picture
+                mix-blend-mode: color-burn
+
+.hero
+
+    figure
+        &:hover, 
+        &:focus
+            filter: none
+            picture
+                mix-blend-mode: normal
+        background: url(/assets/images/noise.svg)
+        filter: saturate(0) contrast(4)
+        transition: filter 0.5s ease
+        picture
+            mix-blend-mode: color-burn
+
 body.full-width 
     .block-pages--list 
         .block-content 
