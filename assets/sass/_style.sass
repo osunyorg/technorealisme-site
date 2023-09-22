@@ -29,20 +29,22 @@ html.has-offcanvas-opened
 
 .hero
     figure
+        background: url(/assets/images/noise.svg)
+        filter: sepia(1) hue-rotate(50deg) contrast(4)
+        transition: filter 0.5s ease
         &:hover, 
         &:focus
             filter: none
             picture
                 mix-blend-mode: normal
-        background: url(/assets/images/noise.svg)
-        filter: sepia(1) hue-rotate(50deg) contrast(4)
-        transition: filter 0.5s ease
         picture
             mix-blend-mode: color-burn
 
-.posts__section
-    main
-        margin-bottom: $spacing4
+@include media-breakpoint-up(desktop)
+    .posts__page
+        .please-contribute
+            .container
+                padding-left: 0
 
 body.full-width 
     .block-pages--list 

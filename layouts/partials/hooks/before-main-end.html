@@ -1,12 +1,14 @@
 {{ if not .IsHome }}
-  {{ $context := . }}
-  {{ with .GetPage "/" }}
-    {{ range last 1 .Params.contents }}
-      {{ $template := printf "blocks/templates/%s.html" .template }}
-      {{ partial $template (dict 
-          "block" . 
-          "context" $context
-      )}}
+  <div class="please-contribute">
+    {{ $context := . }}
+    {{ with .GetPage "/" }}
+      {{ range last 1 .Params.contents }}
+        {{ $template := printf "blocks/templates/%s.html" .template }}
+        {{ partial $template (dict 
+            "block" . 
+            "context" $context
+        )}}
+      {{ end }}
     {{ end }}
-  {{ end }}
+  </div>
 {{ end }}
