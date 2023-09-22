@@ -15,7 +15,7 @@ params:
     position: hero
   logo:
     header: "/assets/images/logo.svg"
-    footer: "/assets/images/icon-white.svg"
+    footer: "/assets/images/icon-color.svg"
   pages:
     index:
       truncate_description: 0
