@@ -8,3 +8,4 @@ fr:
   permalinks:
     posts: /discussions/:year-:month-:day-:slug/
     persons: /equipe/:slug/
+    authors: /equipe/:slug/discussions/
