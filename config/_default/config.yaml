@@ -6,7 +6,7 @@ removePathAccents: true
 deployment:
   targets:
     - name: "production"
-      URL: "s3://25963f6f7a9a4c72411037bb02b6188ff0235ca89b52a95278bf193095dcbf1c?endpoint=garage.deuxfleurs.fr&s3ForcePathStyle=true&region=garage"
+      URL: "s3://www.technorealisme.org?endpoint=garage.deuxfleurs.fr&s3ForcePathStyle=true&region=garage"
 
 params:
   breadcrumb:
