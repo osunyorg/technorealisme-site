@@ -136,8 +136,8 @@ items:
   target: "/que-faire-et-comment-agir/"
   kind: page
   children: []
-- title: Équipe éditoriale
-  target: "/equipe-editoriale/"
+- title: Équipe
+  target: "/equipe/"
   kind: page
   children: []
 - title: Discussions
