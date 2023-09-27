@@ -9,6 +9,7 @@ deployment:
       URL: "s3://www.technorealisme.org?endpoint=garage.deuxfleurs.fr&s3ForcePathStyle=true&region=garage"
 
 params:
+  plausible: technorealisme.org
   breadcrumb:
     position: hero-start
   summary:
