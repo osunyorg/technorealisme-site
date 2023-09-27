@@ -2,12 +2,6 @@ theme: osuny-hugo-theme-aaa
 paginate: 18
 enableRobotsTXT: true
 removePathAccents: true
-
-deployment:
-  targets:
-    - name: "production"
-      URL: "s3://www.technorealisme.org?endpoint=garage.deuxfleurs.fr&s3ForcePathStyle=true&region=garage"
-
 params:
   plausible: technorealisme.org
   breadcrumb:
