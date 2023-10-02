@@ -14,7 +14,7 @@ items:
       kind: page
       children:
       - title: Qu'est-ce que le technoréalisme?
-        target: "/discussions/2023-09-26-quest-ce-que-le-technorealisme/"
+        target: "/discussions/2023-09-19-quest-ce-que-le-technorealisme/"
         kind: post
         children: []
     - title: Dix leçons sur l'IA, à l'usage des honnêtes gens
