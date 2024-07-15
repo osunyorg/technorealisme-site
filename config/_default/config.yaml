@@ -19,4 +19,4 @@ params:
       truncate_description: 0
       layout: grid
       options:
-        hide_author: false
+        author: true
