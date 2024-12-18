@@ -4,18 +4,22 @@ items:
 - title: Manifeste technoréaliste sur l’IA
   target: "/manifeste-technorealiste-sur-lia/"
   kind: page
+  new_tab: false
   children:
   - title: Le manifeste
     target: "/manifeste-technorealiste-sur-lia/"
     kind: page
+    new_tab: false
     children:
     - title: Introduction
       target: "/manifeste-technorealiste-sur-lia/introduction/"
       kind: page
+      new_tab: false
       children:
       - title: Qu'est-ce que le technoréalisme?
         target: "/discussions/2023-09-19-quest-ce-que-le-technorealisme/"
         kind: post
+        new_tab: false
         children: []
         path: "/posts/2023/2023-09-19-quest-ce-que-le-technorealisme"
         file: content/fr/posts/2023/2023-09-19-quest-ce-que-le-technorealisme.html
@@ -24,6 +28,7 @@ items:
     - title: Dix leçons sur l'IA, à l'usage des honnêtes gens
       target: "/manifeste-technorealiste-sur-lia/introduction/dix-lecons-sur-lia-a-lusage-des-honnetes-gens/"
       kind: page
+      new_tab: false
       children: []
       path: "/pages/manifeste-technorealiste-sur-lia/introduction/dix-lecons-sur-lia-a-lusage-des-honnetes-gens"
       file: content/fr/pages/manifeste-technorealiste-sur-lia/introduction/dix-lecons-sur-lia-a-lusage-des-honnetes-gens/_index.html
@@ -32,50 +37,59 @@ items:
   - title: À l’encontre de quelques lubies dominantes sur l’IA
     target: "/manifeste-technorealiste-sur-lia/a-lencontre-de-quelques-lubies-dominantes-sur-lia/"
     kind: page
+    new_tab: false
     children:
     - title: Des notions contestables
       target: "/manifeste-technorealiste-sur-lia/a-lencontre-de-quelques-lubies-dominantes-sur-lia/des-notions-contestables-inutiles-voire-trompeuses/"
       kind: page
+      new_tab: false
       children:
       - title: L’IA comme algorithme
         target: "/manifeste-technorealiste-sur-lia/a-lencontre-de-quelques-lubies-dominantes-sur-lia/des-notions-contestables-inutiles-voire-trompeuses/lia-comme-algorithme/"
         kind: page
+        new_tab: false
         children: []
         path: "/pages/manifeste-technorealiste-sur-lia/a-lencontre-de-quelques-lubies-dominantes-sur-lia/des-notions-contestables-inutiles-voire-trompeuses/lia-comme-algorithme"
         file: content/fr/pages/manifeste-technorealiste-sur-lia/a-lencontre-de-quelques-lubies-dominantes-sur-lia/des-notions-contestables-inutiles-voire-trompeuses/lia-comme-algorithme/_index.html
       - title: L’IA comme système
         target: "/manifeste-technorealiste-sur-lia/a-lencontre-de-quelques-lubies-dominantes-sur-lia/des-notions-contestables-inutiles-voire-trompeuses/lia-comme-systeme-lillusion-de-cloisonnement/"
         kind: page
+        new_tab: false
         children: []
         path: "/pages/manifeste-technorealiste-sur-lia/a-lencontre-de-quelques-lubies-dominantes-sur-lia/des-notions-contestables-inutiles-voire-trompeuses/lia-comme-systeme-lillusion-de-cloisonnement"
         file: content/fr/pages/manifeste-technorealiste-sur-lia/a-lencontre-de-quelques-lubies-dominantes-sur-lia/des-notions-contestables-inutiles-voire-trompeuses/lia-comme-systeme-lillusion-de-cloisonnement/_index.html
       - title: 'L’IA, autonome et automatique '
         target: "/manifeste-technorealiste-sur-lia/a-lencontre-de-quelques-lubies-dominantes-sur-lia/des-notions-contestables-inutiles-voire-trompeuses/lia-autonome-et-automatique-lillusion-du-vivant/"
         kind: page
+        new_tab: false
         children: []
         path: "/pages/manifeste-technorealiste-sur-lia/a-lencontre-de-quelques-lubies-dominantes-sur-lia/des-notions-contestables-inutiles-voire-trompeuses/lia-autonome-et-automatique-lillusion-du-vivant"
         file: content/fr/pages/manifeste-technorealiste-sur-lia/a-lencontre-de-quelques-lubies-dominantes-sur-lia/des-notions-contestables-inutiles-voire-trompeuses/lia-autonome-et-automatique-lillusion-du-vivant/_index.html
       - title: Les modèles d’IA
         target: "/manifeste-technorealiste-sur-lia/a-lencontre-de-quelques-lubies-dominantes-sur-lia/des-notions-contestables-inutiles-voire-trompeuses/les-modeles-dia-lillusion-de-familiarite/"
         kind: page
+        new_tab: false
         children: []
         path: "/pages/manifeste-technorealiste-sur-lia/a-lencontre-de-quelques-lubies-dominantes-sur-lia/des-notions-contestables-inutiles-voire-trompeuses/les-modeles-dia-lillusion-de-familiarite"
         file: content/fr/pages/manifeste-technorealiste-sur-lia/a-lencontre-de-quelques-lubies-dominantes-sur-lia/des-notions-contestables-inutiles-voire-trompeuses/les-modeles-dia-lillusion-de-familiarite/_index.html
       - title: L’IA comme outil
         target: "/manifeste-technorealiste-sur-lia/a-lencontre-de-quelques-lubies-dominantes-sur-lia/des-notions-contestables-inutiles-voire-trompeuses/lia-comme-outil-lillusion-du-controle/"
         kind: page
+        new_tab: false
         children: []
         path: "/pages/manifeste-technorealiste-sur-lia/a-lencontre-de-quelques-lubies-dominantes-sur-lia/des-notions-contestables-inutiles-voire-trompeuses/lia-comme-outil-lillusion-du-controle"
         file: content/fr/pages/manifeste-technorealiste-sur-lia/a-lencontre-de-quelques-lubies-dominantes-sur-lia/des-notions-contestables-inutiles-voire-trompeuses/lia-comme-outil-lillusion-du-controle/_index.html
       - title: 'L’IA et la décision '
         target: "/manifeste-technorealiste-sur-lia/a-lencontre-de-quelques-lubies-dominantes-sur-lia/des-notions-contestables-inutiles-voire-trompeuses/lia-et-la-decision-lillusion-de-la-raison/"
         kind: page
+        new_tab: false
         children: []
         path: "/pages/manifeste-technorealiste-sur-lia/a-lencontre-de-quelques-lubies-dominantes-sur-lia/des-notions-contestables-inutiles-voire-trompeuses/lia-et-la-decision-lillusion-de-la-raison"
         file: content/fr/pages/manifeste-technorealiste-sur-lia/a-lencontre-de-quelques-lubies-dominantes-sur-lia/des-notions-contestables-inutiles-voire-trompeuses/lia-et-la-decision-lillusion-de-la-raison/_index.html
       - title: Les données de l’IA
         target: "/manifeste-technorealiste-sur-lia/a-lencontre-de-quelques-lubies-dominantes-sur-lia/des-notions-contestables-inutiles-voire-trompeuses/les-donnees-de-lia-lillusion-du-consentement/"
         kind: page
+        new_tab: false
         children: []
         path: "/pages/manifeste-technorealiste-sur-lia/a-lencontre-de-quelques-lubies-dominantes-sur-lia/des-notions-contestables-inutiles-voire-trompeuses/les-donnees-de-lia-lillusion-du-consentement"
         file: content/fr/pages/manifeste-technorealiste-sur-lia/a-lencontre-de-quelques-lubies-dominantes-sur-lia/des-notions-contestables-inutiles-voire-trompeuses/les-donnees-de-lia-lillusion-du-consentement/_index.html
@@ -84,11 +98,13 @@ items:
     - title: Des discours tronqués
       target: "/manifeste-technorealiste-sur-lia/a-lencontre-de-quelques-lubies-dominantes-sur-lia/des-discours-tronques/"
       kind: page
+      new_tab: false
       children:
       - title: Réduction aux problématiques de développement et d’usage, comme dans
           l’IA Act
         target: "/manifeste-technorealiste-sur-lia/a-lencontre-de-quelques-lubies-dominantes-sur-lia/des-discours-tronques/reduction-aux-problematiques-de-developpement-et-dusage-comme-dans-lia-act/"
         kind: page
+        new_tab: false
         children: []
         path: "/pages/manifeste-technorealiste-sur-lia/a-lencontre-de-quelques-lubies-dominantes-sur-lia/des-discours-tronques/reduction-aux-problematiques-de-developpement-et-dusage-comme-dans-lia-act"
         file: content/fr/pages/manifeste-technorealiste-sur-lia/a-lencontre-de-quelques-lubies-dominantes-sur-lia/des-discours-tronques/reduction-aux-problematiques-de-developpement-et-dusage-comme-dans-lia-act/_index.html
@@ -96,6 +112,7 @@ items:
           d’autonomie etc.
         target: "/manifeste-technorealiste-sur-lia/a-lencontre-de-quelques-lubies-dominantes-sur-lia/des-discours-tronques/velleites-de-regulation-a-partir-des-notions-contestables-de-systeme-dautonomie-etc/"
         kind: page
+        new_tab: false
         children: []
         path: "/pages/manifeste-technorealiste-sur-lia/a-lencontre-de-quelques-lubies-dominantes-sur-lia/des-discours-tronques/velleites-de-regulation-a-partir-des-notions-contestables-de-systeme-dautonomie-etc"
         file: content/fr/pages/manifeste-technorealiste-sur-lia/a-lencontre-de-quelques-lubies-dominantes-sur-lia/des-discours-tronques/velleites-de-regulation-a-partir-des-notions-contestables-de-systeme-dautonomie-etc/_index.html
@@ -103,12 +120,14 @@ items:
           à cause de l’IA
         target: "/manifeste-technorealiste-sur-lia/a-lencontre-de-quelques-lubies-dominantes-sur-lia/des-discours-tronques/predictions-generales-sur-la-fin-du-travail-ou-sa-transformation-a-cause-de-lia/"
         kind: page
+        new_tab: false
         children: []
         path: "/pages/manifeste-technorealiste-sur-lia/a-lencontre-de-quelques-lubies-dominantes-sur-lia/des-discours-tronques/predictions-generales-sur-la-fin-du-travail-ou-sa-transformation-a-cause-de-lia"
         file: content/fr/pages/manifeste-technorealiste-sur-lia/a-lencontre-de-quelques-lubies-dominantes-sur-lia/des-discours-tronques/predictions-generales-sur-la-fin-du-travail-ou-sa-transformation-a-cause-de-lia/_index.html
       - title: Volonté de développer une IA frugale
         target: "/manifeste-technorealiste-sur-lia/a-lencontre-de-quelques-lubies-dominantes-sur-lia/des-discours-tronques/volonte-de-developper-une-ia-frugale/"
         kind: page
+        new_tab: false
         children: []
         path: "/pages/manifeste-technorealiste-sur-lia/a-lencontre-de-quelques-lubies-dominantes-sur-lia/des-discours-tronques/volonte-de-developper-une-ia-frugale"
         file: content/fr/pages/manifeste-technorealiste-sur-lia/a-lencontre-de-quelques-lubies-dominantes-sur-lia/des-discours-tronques/volonte-de-developper-une-ia-frugale/_index.html
@@ -119,46 +138,54 @@ items:
   - title: Pour une meilleure description de l'IA
     target: "/manifeste-technorealiste-sur-lia/pour-une-meilleure-description-de-lia/"
     kind: page
+    new_tab: false
     children:
     - title: Les programmes d’IA dans le cadre de processus métier
       target: "/manifeste-technorealiste-sur-lia/pour-une-meilleure-description-de-lia/les-programmes-dia-dans-le-cadre-de-processus-metier/"
       kind: page
+      new_tab: false
       children: []
       path: "/pages/manifeste-technorealiste-sur-lia/pour-une-meilleure-description-de-lia/les-programmes-dia-dans-le-cadre-de-processus-metier"
       file: content/fr/pages/manifeste-technorealiste-sur-lia/pour-une-meilleure-description-de-lia/les-programmes-dia-dans-le-cadre-de-processus-metier/_index.html
     - title: Les programmes d’IA sur des ordinateurs
       target: "/manifeste-technorealiste-sur-lia/pour-une-meilleure-description-de-lia/les-programmes-dia-sur-des-ordinateurs/"
       kind: page
+      new_tab: false
       children: []
       path: "/pages/manifeste-technorealiste-sur-lia/pour-une-meilleure-description-de-lia/les-programmes-dia-sur-des-ordinateurs"
       file: content/fr/pages/manifeste-technorealiste-sur-lia/pour-une-meilleure-description-de-lia/les-programmes-dia-sur-des-ordinateurs/_index.html
     - title: Transformations des programmes d'IA
       target: "/manifeste-technorealiste-sur-lia/pour-une-meilleure-description-de-lia/transformations-des-programmes-dia/"
       kind: page
+      new_tab: false
       children: []
       path: "/pages/manifeste-technorealiste-sur-lia/pour-une-meilleure-description-de-lia/transformations-des-programmes-dia"
       file: content/fr/pages/manifeste-technorealiste-sur-lia/pour-une-meilleure-description-de-lia/transformations-des-programmes-dia/_index.html
     - title: La rétention de données dans les programmes d’IA
       target: "/manifeste-technorealiste-sur-lia/pour-une-meilleure-description-de-lia/la-retention-de-donnees-dans-les-programmes-dia/"
       kind: page
+      new_tab: false
       children: []
       path: "/pages/manifeste-technorealiste-sur-lia/pour-une-meilleure-description-de-lia/la-retention-de-donnees-dans-les-programmes-dia"
       file: content/fr/pages/manifeste-technorealiste-sur-lia/pour-une-meilleure-description-de-lia/la-retention-de-donnees-dans-les-programmes-dia/_index.html
     - title: La gestion par l'IA de son propre cloud
       target: "/manifeste-technorealiste-sur-lia/pour-une-meilleure-description-de-lia/la-gestion-par-lia-de-son-propre-cloud/"
       kind: page
+      new_tab: false
       children: []
       path: "/pages/manifeste-technorealiste-sur-lia/pour-une-meilleure-description-de-lia/la-gestion-par-lia-de-son-propre-cloud"
       file: content/fr/pages/manifeste-technorealiste-sur-lia/pour-une-meilleure-description-de-lia/la-gestion-par-lia-de-son-propre-cloud/_index.html
     - title: L’écriture par l’IA de son propre code
       target: "/manifeste-technorealiste-sur-lia/pour-une-meilleure-description-de-lia/lecriture-par-lia-de-son-propre-code/"
       kind: page
+      new_tab: false
       children: []
       path: "/pages/manifeste-technorealiste-sur-lia/pour-une-meilleure-description-de-lia/lecriture-par-lia-de-son-propre-code"
       file: content/fr/pages/manifeste-technorealiste-sur-lia/pour-une-meilleure-description-de-lia/lecriture-par-lia-de-son-propre-code/_index.html
     - title: L’IA frugale
       target: "/manifeste-technorealiste-sur-lia/pour-une-meilleure-description-de-lia/lia-frugale/"
       kind: page
+      new_tab: false
       children: []
       path: "/pages/manifeste-technorealiste-sur-lia/pour-une-meilleure-description-de-lia/lia-frugale"
       file: content/fr/pages/manifeste-technorealiste-sur-lia/pour-une-meilleure-description-de-lia/lia-frugale/_index.html
@@ -167,34 +194,40 @@ items:
   - title: Vers une IA de qualité
     target: "/manifeste-technorealiste-sur-lia/vers-une-ia-de-qualite/"
     kind: page
+    new_tab: false
     children:
     - title: Le postulat des ressources illimitées PRI
       target: "/manifeste-technorealiste-sur-lia/vers-une-ia-de-qualite/le-postulat-des-ressources-illimitees-pri/"
       kind: page
+      new_tab: false
       children: []
       path: "/pages/manifeste-technorealiste-sur-lia/vers-une-ia-de-qualite/le-postulat-des-ressources-illimitees-pri"
       file: content/fr/pages/manifeste-technorealiste-sur-lia/vers-une-ia-de-qualite/le-postulat-des-ressources-illimitees-pri/_index.html
     - title: Les opportunités théoriques de l’IA
       target: "/manifeste-technorealiste-sur-lia/vers-une-ia-de-qualite/les-opportunites-theoriques-de-lia/"
       kind: page
+      new_tab: false
       children: []
       path: "/pages/manifeste-technorealiste-sur-lia/vers-une-ia-de-qualite/les-opportunites-theoriques-de-lia"
       file: content/fr/pages/manifeste-technorealiste-sur-lia/vers-une-ia-de-qualite/les-opportunites-theoriques-de-lia/_index.html
     - title: Les risques théoriques de l’IA
       target: "/manifeste-technorealiste-sur-lia/vers-une-ia-de-qualite/les-risques-theoriques-de-lia/"
       kind: page
+      new_tab: false
       children: []
       path: "/pages/manifeste-technorealiste-sur-lia/vers-une-ia-de-qualite/les-risques-theoriques-de-lia"
       file: content/fr/pages/manifeste-technorealiste-sur-lia/vers-une-ia-de-qualite/les-risques-theoriques-de-lia/_index.html
     - title: Les bénéfices concrets que l’on peut espérer
       target: "/manifeste-technorealiste-sur-lia/vers-une-ia-de-qualite/les-benefices-concrets-que-lon-peut-esperer/"
       kind: page
+      new_tab: false
       children: []
       path: "/pages/manifeste-technorealiste-sur-lia/vers-une-ia-de-qualite/les-benefices-concrets-que-lon-peut-esperer"
       file: content/fr/pages/manifeste-technorealiste-sur-lia/vers-une-ia-de-qualite/les-benefices-concrets-que-lon-peut-esperer/_index.html
     - title: Les inconvénients et dangers concrets que l’on doit redouter
       target: "/manifeste-technorealiste-sur-lia/vers-une-ia-de-qualite/les-inconvenients-et-dangers-concrets-que-lon-doit-redouter/"
       kind: page
+      new_tab: false
       children: []
       path: "/pages/manifeste-technorealiste-sur-lia/vers-une-ia-de-qualite/les-inconvenients-et-dangers-concrets-que-lon-doit-redouter"
       file: content/fr/pages/manifeste-technorealiste-sur-lia/vers-une-ia-de-qualite/les-inconvenients-et-dangers-concrets-que-lon-doit-redouter/_index.html
@@ -205,18 +238,21 @@ items:
 - title: Que faire, et comment réagir?
   target: "/que-faire-et-comment-agir/"
   kind: page
+  new_tab: false
   children: []
   path: "/pages/que-faire-et-comment-agir"
   file: content/fr/pages/que-faire-et-comment-agir/_index.html
 - title: Équipe
   target: "/equipe/"
   kind: page
+  new_tab: false
   children: []
   path: "/persons"
   file: content/fr/persons/_index.html
 - title: Discussions
   target: "/discussions/"
   kind: page
+  new_tab: false
   children: []
   path: "/posts"
   file: content/fr/posts/_index.html
