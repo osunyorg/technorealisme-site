@@ -8,13 +8,13 @@ items:
   children: []
   path: "/pages/editions"
   file: content/fr/pages/editions/_index.html
-- title: Conférence
-  target: "/conference/"
+- title: Agenda
+  target: "/agenda/"
   kind: page
   new_tab: false
   children: []
-  path: "/pages/conference"
-  file: content/fr/pages/conference/_index.html
+  path: "/events"
+  file: content/fr/events/_index.html
 - title: Manifeste
   target: "/manifeste/"
   kind: page
