@@ -71,8 +71,8 @@ items:
     file: content/fr/pages/manifeste/vers-une-ia-de-qualite/_index.html
   path: "/pages/manifeste"
   file: content/fr/pages/manifeste/_index.html
-- title: Équipe
-  target: "/equipe/"
+- title: Technoréalistes
+  target: "/technorealistes/"
   kind: page
   new_tab: false
   children: []
