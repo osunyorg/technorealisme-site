@@ -52,21 +52,7 @@ items:
     target: "/manifeste/lubies/"
     kind: page
     new_tab: false
-    children:
-    - title: Des notions contestables
-      target: "/manifeste/lubies/notions-contestables/"
-      kind: page
-      new_tab: false
-      children: []
-      path: "/pages/manifeste/lubies/notions-contestables"
-      file: content/fr/pages/manifeste/lubies/notions-contestables/_index.html
-    - title: Des discours tronqués
-      target: "/manifeste/lubies/discours-tronques/"
-      kind: page
-      new_tab: false
-      children: []
-      path: "/pages/manifeste/lubies/discours-tronques"
-      file: content/fr/pages/manifeste/lubies/discours-tronques/_index.html
+    children: []
     path: "/pages/manifeste/lubies"
     file: content/fr/pages/manifeste/lubies/_index.html
   - title: Pour une meilleure description de l'IA
