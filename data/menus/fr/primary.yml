@@ -8,6 +8,13 @@ items:
   children: []
   path: "/pages/lettres-de-la-machine-ia"
   file: content/fr/pages/lettres-de-la-machine-ia/_index.html
+- title: Technoréalisme, la Conférence
+  target: "/technorealisme-conference/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/technorealisme-conference"
+  file: content/fr/pages/technorealisme-conference/_index.html
 - title: Manifeste technoréaliste sur l’IA
   target: "/manifeste-technorealiste-sur-lia/"
   kind: page
