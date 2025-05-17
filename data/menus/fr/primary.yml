@@ -1,6 +1,13 @@
 ---
 title: Menu principal
 items:
+- title: Technoréalisme éditions
+  target: "/lettres-de-la-machine-ia/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/lettres-de-la-machine-ia"
+  file: content/fr/pages/lettres-de-la-machine-ia/_index.html
 - title: Manifeste technoréaliste sur l’IA
   target: "/manifeste-technorealiste-sur-lia/"
   kind: page
