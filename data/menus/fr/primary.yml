@@ -49,12 +49,12 @@ items:
     path: "/pages/manifeste/meilleure-description"
     file: content/fr/pages/manifeste/meilleure-description/_index.html
   - title: À l’encontre de quelques lubies dominantes sur l’IA
-    target: "/manifeste/lubies/"
+    target: "/manifeste/mode-ia/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/manifeste/lubies"
-    file: content/fr/pages/manifeste/lubies/_index.html
+    path: "/pages/manifeste/mode-ia"
+    file: content/fr/pages/manifeste/mode-ia/_index.html
   path: "/pages/manifeste"
   file: content/fr/pages/manifeste/_index.html
 - title: Technoréalistes
