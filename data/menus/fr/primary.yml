@@ -40,12 +40,12 @@ items:
       path: "/pages/manifeste/introduction"
       file: content/fr/pages/manifeste/introduction/_index.html
     - title: Dix leçons sur l'IA, à l'usage des honnêtes gens
-      target: "/manifeste/introduction/dix-lecons-sur-lia-a-lusage-des-honnetes-gens/"
+      target: "/manifeste/dix-lecons-sur-lia-a-lusage-des-honnetes-gens/"
       kind: page
       new_tab: false
       children: []
-      path: "/pages/manifeste/introduction/dix-lecons-sur-lia-a-lusage-des-honnetes-gens"
-      file: content/fr/pages/manifeste/introduction/dix-lecons-sur-lia-a-lusage-des-honnetes-gens/_index.html
+      path: "/pages/manifeste/dix-lecons-sur-lia-a-lusage-des-honnetes-gens"
+      file: content/fr/pages/manifeste/dix-lecons-sur-lia-a-lusage-des-honnetes-gens/_index.html
     path: "/pages/manifeste"
     file: content/fr/pages/manifeste/_index.html
   - title: À l’encontre de quelques lubies dominantes sur l’IA
