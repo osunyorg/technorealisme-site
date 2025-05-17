@@ -34,7 +34,7 @@ items:
     children: []
     path: "/pages/manifeste/dix-lecons"
     file: content/fr/pages/manifeste/dix-lecons/_index.html
-  - title: Vers une IA de qualité
+  - title: Pour une IA de qualité
     target: "/manifeste/pour-une-ia-de-qualite/"
     kind: page
     new_tab: false
