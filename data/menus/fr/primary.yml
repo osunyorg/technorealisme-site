@@ -2,12 +2,12 @@
 title: Menu principal
 items:
 - title: Éditions
-  target: "/lettres-de-la-machine-ia/"
+  target: "/editions/"
   kind: page
   new_tab: false
   children: []
-  path: "/pages/lettres-de-la-machine-ia"
-  file: content/fr/pages/lettres-de-la-machine-ia/_index.html
+  path: "/pages/editions"
+  file: content/fr/pages/editions/_index.html
 - title: Conférence
   target: "/technorealisme-conference/"
   kind: page
@@ -249,13 +249,6 @@ items:
     file: content/fr/pages/manifeste/vers-une-ia-de-qualite/_index.html
   path: "/pages/manifeste"
   file: content/fr/pages/manifeste/_index.html
-- title: Que faire, et comment réagir?
-  target: "/manifeste/que-faire-et-comment-agir/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/pages/manifeste/que-faire-et-comment-agir"
-  file: content/fr/pages/manifeste/que-faire-et-comment-agir/_index.html
 - title: Équipe
   target: "/equipe/"
   kind: page
