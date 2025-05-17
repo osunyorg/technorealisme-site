@@ -28,12 +28,12 @@ items:
     path: "/pages/manifeste/introduction"
     file: content/fr/pages/manifeste/introduction/_index.html
   - title: Dix leçons sur l'IA
-    target: "/manifeste/intelligence-artificielle-dix-lecons/"
+    target: "/manifeste/dix-lecons/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/manifeste/intelligence-artificielle-dix-lecons"
-    file: content/fr/pages/manifeste/intelligence-artificielle-dix-lecons/_index.html
+    path: "/pages/manifeste/dix-lecons"
+    file: content/fr/pages/manifeste/dix-lecons/_index.html
   - title: Que faire ?
     target: "/manifeste/que-faire/"
     kind: page
