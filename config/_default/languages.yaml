@@ -25,9 +25,9 @@ fr:
     projects_categories: /editions/:slug/
     posts: /discussions/:year-:month-:day-:slug/
     posts_categories: /discussions/:slug/
-    persons: /equipe/:slug/
-    persons_categories: /equipe/categories/:slug/
-    authors: /equipe/:slug/discussions/
+    persons: /technorealistes/:slug/
+    persons_categories: /technorealistes/categories/:slug/
+    authors: /technorealistes/:slug/discussions/
   taxonomies:
     administrator: administrators
     author: authors
