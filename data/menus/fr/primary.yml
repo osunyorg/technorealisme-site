@@ -9,12 +9,12 @@ items:
   path: "/pages/editions"
   file: content/fr/pages/editions/_index.html
 - title: Conférence
-  target: "/technorealisme-conference/"
+  target: "/conference/"
   kind: page
   new_tab: false
   children: []
-  path: "/pages/technorealisme-conference"
-  file: content/fr/pages/technorealisme-conference/_index.html
+  path: "/pages/conference"
+  file: content/fr/pages/conference/_index.html
 - title: Manifeste
   target: "/manifeste/"
   kind: page
