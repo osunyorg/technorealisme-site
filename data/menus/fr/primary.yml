@@ -27,20 +27,6 @@ items:
     children: []
     path: "/pages/manifeste/introduction"
     file: content/fr/pages/manifeste/introduction/_index.html
-  - title: Qu'est-ce que le technoréalisme?
-    target: "/actualites/2023-09-19-quest-ce-que-le-technorealisme/"
-    kind: post
-    new_tab: false
-    children: []
-    path: "/posts/2023/2023-09-19-quest-ce-que-le-technorealisme"
-    file: content/fr/posts/2023/2023-09-19-quest-ce-que-le-technorealisme.html
-  - title: Que faire, et comment réagir?
-    target: "/manifeste/que-faire/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/manifeste/que-faire"
-    file: content/fr/pages/manifeste/que-faire/_index.html
   - title: Dix leçons sur l'IA, à l'usage des honnêtes gens
     target: "/manifeste/dix-lecons/"
     kind: page
@@ -48,20 +34,13 @@ items:
     children: []
     path: "/pages/manifeste/dix-lecons"
     file: content/fr/pages/manifeste/dix-lecons/_index.html
-  - title: À l’encontre de quelques lubies dominantes sur l’IA
-    target: "/manifeste/lubies/"
+  - title: Que faire, et comment réagir?
+    target: "/manifeste/que-faire/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/manifeste/lubies"
-    file: content/fr/pages/manifeste/lubies/_index.html
-  - title: Pour une meilleure description de l'IA
-    target: "/manifeste/meilleure-description/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/manifeste/meilleure-description"
-    file: content/fr/pages/manifeste/meilleure-description/_index.html
+    path: "/pages/manifeste/que-faire"
+    file: content/fr/pages/manifeste/que-faire/_index.html
   - title: Vers une IA de qualité
     target: "/manifeste/vers-une-ia-de-qualite/"
     kind: page
@@ -69,6 +48,20 @@ items:
     children: []
     path: "/pages/manifeste/vers-une-ia-de-qualite"
     file: content/fr/pages/manifeste/vers-une-ia-de-qualite/_index.html
+  - title: Pour une meilleure description de l'IA
+    target: "/manifeste/meilleure-description/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/manifeste/meilleure-description"
+    file: content/fr/pages/manifeste/meilleure-description/_index.html
+  - title: À l’encontre de quelques lubies dominantes sur l’IA
+    target: "/manifeste/lubies/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/manifeste/lubies"
+    file: content/fr/pages/manifeste/lubies/_index.html
   path: "/pages/manifeste"
   file: content/fr/pages/manifeste/_index.html
 - title: Technoréalistes
