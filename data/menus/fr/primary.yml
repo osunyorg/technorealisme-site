@@ -42,12 +42,12 @@ items:
     path: "/pages/manifeste/dix-lecons"
     file: content/fr/pages/manifeste/dix-lecons/_index.html
   - title: Que faire, et comment réagir?
-    target: "/manifeste/que-faire/"
+    target: "/manifeste/que-faire-comment-reagir/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/manifeste/que-faire"
-    file: content/fr/pages/manifeste/que-faire/_index.html
+    path: "/pages/manifeste/que-faire-comment-reagir"
+    file: content/fr/pages/manifeste/que-faire-comment-reagir/_index.html
   - title: Vers une IA de qualité
     target: "/manifeste/vers-une-ia-de-qualite/"
     kind: page
