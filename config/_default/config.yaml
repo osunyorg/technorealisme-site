@@ -18,3 +18,8 @@ params:
       layout: grid
       options:
         author: true
+  menu:
+    primary:
+      level_2:
+        title:
+          active: true
