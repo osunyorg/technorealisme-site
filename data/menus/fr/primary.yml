@@ -27,13 +27,6 @@ items:
     children: []
     path: "/pages/manifeste/introduction"
     file: content/fr/pages/manifeste/introduction/_index.html
-  - title: Qu'est-ce que le technoréalisme ?
-    target: "/manifeste/technorealisme/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/manifeste/technorealisme"
-    file: content/fr/pages/manifeste/technorealisme/_index.html
   - title: Dix leçons sur l'IA
     target: "/manifeste/dix-lecons/"
     kind: page
