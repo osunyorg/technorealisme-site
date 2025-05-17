@@ -250,12 +250,12 @@ items:
   path: "/pages/manifeste"
   file: content/fr/pages/manifeste/_index.html
 - title: Que faire, et comment réagir?
-  target: "/que-faire-et-comment-agir/"
+  target: "/manifeste/que-faire-et-comment-agir/"
   kind: page
   new_tab: false
   children: []
-  path: "/pages/que-faire-et-comment-agir"
-  file: content/fr/pages/que-faire-et-comment-agir/_index.html
+  path: "/pages/manifeste/que-faire-et-comment-agir"
+  file: content/fr/pages/manifeste/que-faire-et-comment-agir/_index.html
 - title: Équipe
   target: "/equipe/"
   kind: page
@@ -263,11 +263,4 @@ items:
   children: []
   path: "/persons"
   file: content/fr/persons/_index.html
-- title: Discussions
-  target: "/discussions/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/posts"
-  file: content/fr/posts/_index.html
 
