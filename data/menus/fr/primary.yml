@@ -28,7 +28,7 @@ items:
     path: "/pages/manifeste/introduction"
     file: content/fr/pages/manifeste/introduction/_index.html
   - title: Qu'est-ce que le technoréalisme?
-    target: "/discussions/2023-09-19-quest-ce-que-le-technorealisme/"
+    target: "/actualites/2023-09-19-quest-ce-que-le-technorealisme/"
     kind: post
     new_tab: false
     children: []
