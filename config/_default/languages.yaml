@@ -9,12 +9,6 @@ fr:
   buildFuture: true
   params:
     contact_details:
-      social_networks:
-        linkedin:
-          label: >-
-            technorealisme
-          value: >-
-            https://www.linkedin.com/company/technorealisme
 
   permalinks:
     pages_categories: /:slug/
