@@ -34,13 +34,6 @@ items:
     children: []
     path: "/pages/manifeste/dix-lecons-ia"
     file: content/fr/pages/manifeste/dix-lecons-ia/_index.html
-  - title: Que faire ?
-    target: "/manifeste/que-faire/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/manifeste/que-faire"
-    file: content/fr/pages/manifeste/que-faire/_index.html
   - title: Vers une IA de qualité
     target: "/manifeste/vers-une-ia-de-qualite/"
     kind: page
