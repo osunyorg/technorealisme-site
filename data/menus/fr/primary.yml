@@ -1,8 +1,8 @@
 ---
 title: Menu principal
 items:
-- title: Éditions
-  target: "/editions/"
+- title: Ouvrages
+  target: "/ouvrages/"
   kind: page
   new_tab: false
   children: []
@@ -57,8 +57,8 @@ items:
     file: content/fr/pages/manifeste/meilleure-description/_index.html
   path: "/pages/manifeste"
   file: content/fr/pages/manifeste/_index.html
-- title: Technoréalistes
-  target: "/technorealistes/"
+- title: Membres
+  target: "/membres/"
   kind: page
   new_tab: false
   children: []
