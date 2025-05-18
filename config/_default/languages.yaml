@@ -21,8 +21,8 @@ fr:
     exhibitions: /expositions/:year-:month-:day-:slug/
     events_categories: /agenda/:slug/
     pages_categories: /:slug/
-    projects: /ouvrages/:year-:slug/
-    projects_categories: /ouvrages/:slug/
+    projects: /livres/:year-:slug/
+    projects_categories: /livres/:slug/
     posts: /actualites/:year-:month-:day-:slug/
     posts_categories: /actualites/:slug/
     persons: /membres/:slug/
