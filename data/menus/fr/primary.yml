@@ -1,6 +1,53 @@
 ---
 title: Menu principal
 items:
+- title: Agenda
+  target: "/agenda/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/events"
+  file: content/fr/events/_index.html
+- title: Livres
+  target: "/livres/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/projects"
+  file: content/fr/projects/_index.html
+- title: Manifeste
+  target: ''
+  kind: blank
+  new_tab: false
+  children:
+  - title: La mode de l'IA
+    target: "/manifeste/mode-ia/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/manifeste/mode-ia"
+    file: content/fr/pages/manifeste/mode-ia/_index.html
+  - title: Dix leçons sur l'IA
+    target: "/manifeste/dix-lecons/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/manifeste/dix-lecons"
+    file: content/fr/pages/manifeste/dix-lecons/_index.html
+  - title: Pour une IA de qualité
+    target: "/manifeste/pour-une-ia-de-qualite/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/manifeste/pour-une-ia-de-qualite"
+    file: content/fr/pages/manifeste/pour-une-ia-de-qualite/_index.html
+  - title: Pour une meilleure description de l'IA
+    target: "/manifeste/meilleure-description/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/manifeste/meilleure-description"
+    file: content/fr/pages/manifeste/meilleure-description/_index.html
 - title: Think Tank
   target: ''
   kind: blank
@@ -20,39 +67,6 @@ items:
     children: []
     path: "/pages/principes"
     file: content/fr/pages/principes/_index.html
-  - title: Manifeste
-    target: ''
-    kind: blank
-    new_tab: false
-    children:
-    - title: La mode de l'IA
-      target: "/manifeste/mode-ia/"
-      kind: page
-      new_tab: false
-      children: []
-      path: "/pages/manifeste/mode-ia"
-      file: content/fr/pages/manifeste/mode-ia/_index.html
-    - title: Dix leçons sur l'IA
-      target: "/manifeste/dix-lecons/"
-      kind: page
-      new_tab: false
-      children: []
-      path: "/pages/manifeste/dix-lecons"
-      file: content/fr/pages/manifeste/dix-lecons/_index.html
-    - title: Pour une IA de qualité
-      target: "/manifeste/pour-une-ia-de-qualite/"
-      kind: page
-      new_tab: false
-      children: []
-      path: "/pages/manifeste/pour-une-ia-de-qualite"
-      file: content/fr/pages/manifeste/pour-une-ia-de-qualite/_index.html
-    - title: Pour une meilleure description de l'IA
-      target: "/manifeste/meilleure-description/"
-      kind: page
-      new_tab: false
-      children: []
-      path: "/pages/manifeste/meilleure-description"
-      file: content/fr/pages/manifeste/meilleure-description/_index.html
   - title: Membres
     target: "/membres/"
     kind: page
@@ -60,18 +74,4 @@ items:
     children: []
     path: "/persons"
     file: content/fr/persons/_index.html
-- title: Livres
-  target: "/livres/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/projects"
-  file: content/fr/projects/_index.html
-- title: Agenda
-  target: "/agenda/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/events"
-  file: content/fr/events/_index.html
 
