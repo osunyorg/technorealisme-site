@@ -1,0 +1,32 @@
+.events__section
+    .events-archives-years
+        ol
+            li:hover
+                a, p, &::after
+                    color: $color-accent-dark
+.button--accent, 
+.button-accent, 
+.events__page .event-access .event-practicals a.btn, 
+.exhibitions__page .event-access .event-practicals a.btn
+    background: black
+    color: $color-accent
+    &:hover
+        background: $color-accent
+        color: black
+.toc
+    ol
+        .active
+            color: $color-accent-dark
+.post-infos
+    a
+        color: $color-accent-dark
+.calendar-month
+    h2
+        a
+            color: $color-text !important
+            @include icon(arrow-right-line, after, true)
+    tbody
+        a
+            color: $color-text !important
+            &:hover
+                color: $color-accent !important

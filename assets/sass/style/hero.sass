@@ -1,0 +1,15 @@
+.hero
+    figure
+        background: url(/assets/images/noise.svg)
+        filter: sepia(1) hue-rotate(50deg) contrast(4)
+        transition: filter 0.5s ease
+        &:hover, 
+        &:focus
+            filter: none
+            picture
+                mix-blend-mode: normal
+        picture
+            mix-blend-mode: color-burn
+    .hero-actions
+        .btn
+            padding: $spacing-3 $spacing-4

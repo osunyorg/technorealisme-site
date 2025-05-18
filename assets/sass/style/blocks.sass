@@ -1,0 +1,30 @@
+.block-pages,
+.block-posts
+    article
+        &:hover, 
+        &:focus
+            .media
+                filter: none
+                picture
+                    mix-blend-mode: normal
+        .media
+            line-height: 0
+            transition: filter 0.5s ease
+            background: url(/assets/images/noise.svg)
+            filter: sepia(1) hue-rotate(50deg) contrast(4)
+            picture
+                mix-blend-mode: color-burn
+.block-projects
+    &--large
+        .project
+            .media
+                @include media-breakpoint-up(desktop)
+                    width: columns(6) !important
+                @include media-breakpoint-down(desktop)
+                    margin-left: 0
+                    margin-right: 0
+.block-pages
+    &--grid
+        .grid
+            @include media-breakpoint-up(desktop)
+                grid-template-columns: repeat(2, 1fr) !important

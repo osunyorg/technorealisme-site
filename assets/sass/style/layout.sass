@@ -1,0 +1,26 @@
+body
+    background-image: url(/assets/images/icon-color.svg)
+    background-repeat: no-repeat
+    background-size: 300px
+    background-position: -22px 0
+html.has-menu-opened, 
+html.has-modal-opened, 
+html.has-offcanvas-opened
+    body::after
+        mix-blend-mode: hard-light
+        opacity: 0.9
+main
+    padding-bottom: 0 !important
+@include media-breakpoint-up(desktop)
+    body:not(.full-width)
+        .please-contribute
+            .container
+                padding-left: 0
+.persons__section
+    .taxonomies-persons
+        display: none
+main > .blocks .projects--large .project-title, 
+main > .blocks .projects--large .project-subtitle, 
+body.full-width .projects--large .project-title, 
+body.full-width .projects--large .project-subtitle
+    margin-bottom: 0
