@@ -28,12 +28,12 @@ items:
     path: "/pages/manifeste/mode-ia"
     file: content/fr/pages/manifeste/mode-ia/_index.html
   - title: Dix leçons sur l'IA
-    target: "/manifeste/dix-lecons/"
+    target: "/manifeste/ia-dix-lecons/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/manifeste/dix-lecons"
-    file: content/fr/pages/manifeste/dix-lecons/_index.html
+    path: "/pages/manifeste/ia-dix-lecons"
+    file: content/fr/pages/manifeste/ia-dix-lecons/_index.html
   - title: Pour une IA de qualité
     target: "/manifeste/ia-qualite/"
     kind: page
