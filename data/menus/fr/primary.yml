@@ -7,12 +7,19 @@ items:
   new_tab: false
   children:
   - title: À propos
-    target: "/introduction/"
+    target: "/technorealisme/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/introduction"
-    file: content/fr/pages/introduction/_index.html
+    path: "/pages/technorealisme"
+    file: content/fr/pages/technorealisme/_index.html
+  - title: Principes
+    target: "/principes/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/principes"
+    file: content/fr/pages/principes/_index.html
   - title: Manifeste
     target: ''
     kind: blank
