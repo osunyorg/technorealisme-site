@@ -25,9 +25,9 @@ fr:
     projects_categories: /livres/:slug/
     posts: /actualites/:year-:month-:day-:slug/
     posts_categories: /actualites/:slug/
-    persons: /membres/:slug/
-    persons_categories: /membres/categories/:slug/
-    authors: /membres/:slug/actualites/
+    persons: /think-tank/membres/:slug/
+    persons_categories: /think-tank/membres/categories/:slug/
+    authors: /think-tank/membres/:slug/actualites/
   taxonomies:
     administrator: administrators
     author: authors
