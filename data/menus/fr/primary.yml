@@ -41,7 +41,7 @@ items:
     children: []
     path: "/pages/manifeste/ia-qualite"
     file: content/fr/pages/manifeste/ia-qualite/_index.html
-  - title: Pour une meilleure description de l'IA
+  - title: Pour une description de l'IA
     target: "/manifeste/description-ia/"
     kind: page
     new_tab: false
