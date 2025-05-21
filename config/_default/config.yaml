@@ -4,6 +4,8 @@ params:
   plausible: technorealisme.org
   breadcrumb:
     position: hero-start
+  search:
+    active: true
   summary:
     position: hero
   logo:
