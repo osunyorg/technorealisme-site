@@ -1,6 +1,13 @@
 ---
 title: Menu principal
 items:
+- title: Actualités
+  target: "/actualites/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/posts"
+  file: content/fr/posts/_index.html
 - title: Agenda
   target: "/agenda/"
   kind: page
@@ -15,39 +22,6 @@ items:
   children: []
   path: "/projects"
   file: content/fr/projects/_index.html
-- title: Manifeste
-  target: ''
-  kind: blank
-  new_tab: false
-  children:
-  - title: La mode de l'IA
-    target: "/manifeste/mode-ia/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/manifeste/mode-ia"
-    file: content/fr/pages/manifeste/mode-ia/_index.html
-  - title: Dix leçons sur l'IA
-    target: "/manifeste/ia-dix-lecons/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/manifeste/ia-dix-lecons"
-    file: content/fr/pages/manifeste/ia-dix-lecons/_index.html
-  - title: Pour une IA de qualité
-    target: "/manifeste/ia-qualite/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/manifeste/ia-qualite"
-    file: content/fr/pages/manifeste/ia-qualite/_index.html
-  - title: Pour une description de l'IA
-    target: "/manifeste/description-ia/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/manifeste/description-ia"
-    file: content/fr/pages/manifeste/description-ia/_index.html
 - title: Think Tank
   target: ''
   kind: blank
@@ -60,6 +34,39 @@ items:
     children: []
     path: "/pages/think-tank/technorealisme"
     file: content/fr/pages/think-tank/technorealisme/_index.html
+  - title: Manifeste
+    target: ''
+    kind: blank
+    new_tab: false
+    children:
+    - title: La mode de l'IA
+      target: "/manifeste/mode-ia/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/manifeste/mode-ia"
+      file: content/fr/pages/manifeste/mode-ia/_index.html
+    - title: Dix leçons sur l'IA
+      target: "/manifeste/ia-dix-lecons/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/manifeste/ia-dix-lecons"
+      file: content/fr/pages/manifeste/ia-dix-lecons/_index.html
+    - title: Pour une IA de qualité
+      target: "/manifeste/ia-qualite/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/manifeste/ia-qualite"
+      file: content/fr/pages/manifeste/ia-qualite/_index.html
+    - title: Pour une description de l'IA
+      target: "/manifeste/description-ia/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/manifeste/description-ia"
+      file: content/fr/pages/manifeste/description-ia/_index.html
   - title: Principes
     target: "/think-tank/principes/"
     kind: page
