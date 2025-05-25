@@ -34,11 +34,6 @@ items:
     children: []
     path: "/pages/think-tank/technorealisme"
     file: content/fr/pages/think-tank/technorealisme/_index.html
-  - title: Manifeste
-    target: ''
-    kind: blank
-    new_tab: false
-    children: []
   - title: Principes
     target: "/think-tank/principes/"
     kind: page
@@ -46,6 +41,11 @@ items:
     children: []
     path: "/pages/think-tank/principes"
     file: content/fr/pages/think-tank/principes/_index.html
+  - title: Manifeste
+    target: ''
+    kind: blank
+    new_tab: false
+    children: []
   - title: Membres
     target: "/think-tank/membres/"
     kind: page
