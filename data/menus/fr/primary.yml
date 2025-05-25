@@ -1,8 +1,8 @@
 ---
 title: Menu principal
 items:
-- title: Actualités
-  target: "/actualites/"
+- title: Articles
+  target: "/articles/"
   kind: page
   new_tab: false
   children: []
