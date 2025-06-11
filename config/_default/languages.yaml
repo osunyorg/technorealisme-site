@@ -16,18 +16,6 @@ fr:
           value: >-
             https://www.linkedin.com/company/technorealisme/
 
-  permalinks:
-    events: /agenda/:year/:slug/
-    exhibitions: /expositions/:year-:month-:day-:slug/
-    events_categories: /agenda/:slug/
-    pages_categories: /:slug/
-    projects: /livres/:year-:slug/
-    projects_categories: /livres/:slug/
-    posts: /articles/:year-:month-:day-:slug/
-    posts_categories: /articles/:slug/
-    persons: /think-tank/membres/:slug/
-    persons_categories: /think-tank/membres/categories/:slug/
-    authors: /think-tank/membres/:slug/articles/
   taxonomies:
     administrator: administrators
     author: authors
