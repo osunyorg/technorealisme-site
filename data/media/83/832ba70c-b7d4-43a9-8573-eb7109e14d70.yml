@@ -1,7 +1,10 @@
 ---
 name: lettres-de-la-machine-ia.jpg
 size: 295269
-format: square
+width: 800
+height: 1280
+ratio: 0.625
+format: portrait
 url: https://technorealisme.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjgzMmJhNzBjLWI3ZDQtNDNhOS04NTczLWViNzEwOWUxNGQ3MCIsInB1ciI6ImJsb2JfaWQifX0=--8591a138b6a405f1c14951589e2f3393856170cb/lettres-de-la-machine-ia.jpg
 direct_url: https://osuny.s3.fr-par.scw.cloud/d6aws02tmccr728tjdha1fhosl6v
 download_url: https://technorealisme.osuny.org/media/download/eyJfcmFpbHMiOnsiZGF0YSI6IjgzMmJhNzBjLWI3ZDQtNDNhOS04NTczLWViNzEwOWUxNGQ3MCIsInB1ciI6ImJsb2JfaWQifX0=--8591a138b6a405f1c14951589e2f3393856170cb
