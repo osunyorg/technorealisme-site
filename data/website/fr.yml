@@ -2,8 +2,49 @@ default:
   shared_image:
     id: c0345d6a-ed1c-49fd-8b39-031654d5bbcc
 contents_reading_time:
-  seconds: 0
+  seconds: 7
   text: >-
     moins d'une minute
 contents:
+  - kind: block
+    template: call_to_action
+    title: >-
+      
+    slug: >-
+      
+    ranks:
+      base: 2
+    top:
+      active: true
+      description: >-
+        <p>Envie de Technoréalisme ?<br>Suivez-nous sur Linkedin<br>ou contribuez à nos études !</p>
+    data:
+      layout: accent_background
+      text: >-
+        <p>Envie de Technoréalisme ?<br>Suivez-nous sur Linkedin<br>ou contribuez à nos études !</p>
+
+
+      alt: >-
+        
+
+      credit: >-
+        
+
+      buttons:
+        - title: >-
+            Suivez-nous sur Linkedin
+
+          url: >-
+            https://www.linkedin.com/company/technorealisme
+
+          target_blank: true
+        - title: >-
+            contribuer@technorealisme.org
+
+          url: >-
+            mailto:contribuer@technorealisme.org
+
+          target_blank: false
+
+
 
