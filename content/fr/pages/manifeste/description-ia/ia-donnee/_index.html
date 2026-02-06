@@ -1,12 +1,11 @@
 ---
-breadcrumb_title: >-
-  IA et Donnée
 title: >-
   IA et Donnée
-subtitle: >-
-  
-bodyclass: >-
-   
+breadcrumb_title: >-
+  IA et Donnée
+
+
+
 url: "/manifeste/description-ia/ia-donnee/"
 slug: "ia-donnee"
 aliases:
@@ -43,17 +42,13 @@ search:
     <p>  <br>Comment l’IA se souvient-elle de ce qu’on lui dit ? Ou, plus sérieusement  : comment les ordinateurs conservent-ils les données, et les traces de transformation de ces dernières ?</p>  <p> Une erreur courante d’appréciation  <br>   <br>Nombreux sont ceux qui considèrent que le résultat qu’obtient ChatGPT, c’est  le texte sur l’écran qu’ils voient.  Ils ont alors l’impression de dialoguer avec quelqu’un qui se souviendrait du début de la conversation. C’est parce qu’ils ne voient que le  résultat pour soi  (une image, un morceau de musique, etc.) en croyant qu’il s’agit là du tout de la production artificielle.  Regardons cela de plus près.</p>  <p> Données  <br>   <br>Les données ne sont pas nécessairement des renseignements, mais des intrants et extrants destinés au calcul, présents dans des bases plus ou moins structurées. On comprend que "ChatGPT peut se souvenir de tout", dans le sens qu’un informaticien peut programmer l’IA pour qu’elle conserve tous les renseignements interprétables ! Il est en revanche intéressant de comprendre si toutes les transformations de données (au sens large) se maintiennent, est-ce que toutes les versions de tous les fichiers subsistent quelque part dans un ordinateur ? Distinguons alors : la donnée de sortie de ChatGPT (le texte sur l’écran) de toutes les autres données de traitement données abstraites correspondant aux valeurs des poids, de 0 à 1, dans les modèles d’apprentissage. Les modèles de dernières générations sont de gigantesques réseaux neuronaux composés d’une multitude de couches. Dans le cas de ChatGPT 3, il y a 175 milliards de poids à apprendre, un par neurone. ChatGPT produit  beaucoup de ces autres données, non présentes sur l’écran . Que devient cette production ? </p>  <p> Mémoire  <br>   <br>Il y a d’abord  plusieurs types de mémoire informatique 1  : volatile (mémoire vive), physique (stockage sur disque), déportée dans les nuages (ou cloud : idem, mais à distance). Autrement dit, en termes de hardware : sous forme magnétique sur un disque dur, voire sous forme physique (stockage cristallin), ou encore biologique (stockage ADN cellulaire). La "mémoire" de l’ordinateur est cependant simplement  un concept  que l’on emploie pour insister sur la variabilité des temps d’accès à la donnée, et le type de hardware mobilisé.  À partir de cela, on peut comprendre que  les données sur disque ne sont pas effacées sauf en cas de réécriture sur les secteurs  qui contenaient les données (ce qui suppose instruction explicite). Il ne s’agit pas de l’équivalent d’un effacement à la  gomme  : les secteurs sont juste déclarés de nouveau  libres  jusqu'à la prochaine écriture.  Ainsi, en première approximation, en langage courant, deux propositions sont à réconcilier. Tout d'abord,  l’IA oublie très vite  au sens que les données en mémoire vive ne sont retenues que quelques minutes, et que le modèle ne s’enrichit pas instantanément et continument de nouvelles informations (entrantes ou sortantes). Mais, de même,  elle n’oublie pas grand-chose  parce qu’ il faut programmer la libération des espaces-mémoire . Autrement dit, l’historique des transformations de données n’est en principe pas retenu, à moins que le programme ait été conçu pour rendre compte des changements. À ce stade, on voit que  beaucoup de données s’accumulent  suite aux transformations dues aux traitements informatiques. Dans quelle mesure ? Pour répondre à la question de savoir à quel point les données sont rémanentes, il faut encore considérer qu’en pratique, les programmes informatiques connaissent des  cycles de vie  (qui n’ont évidemment rien à voir avec les mécanismes du vieillissement biologique, même si certains parallèles intéressants pourraient être faits.) <br>1  En dehors de l’ordinateur : mémoire humaine, analogique (papier), journalisée, base journalisée</p>  <p> Mutation  <br>   <br>Les informaticiens parlent de DevOps (écrire le programme :  Dev . L’entretenir dans un système d’information en évolution :  Ops ). Côté  Dev , une fois que ChatGPT est déployé,  on pourrait théoriquement détruire tous les corpus qui ont servi à obtenir les données d’entrée : ChatGPT fonctionnerait encore  (rien à voir avec un animal qui ressuscite !, c'est simplement au sens que le logiciel peut être programmé pour travailler à partir de données d’abstraction de ces intrants). Concrètement, l’administrateur de ChatGPT va néanmoins conserver durablement une copie de ces corpus pour effectuer d’autres recherches et mettre au point de futurs modèles d’apprentissage, de futures versions, etc. Côté  Ops , on met au point du cache.  Le cache permet d’économiser de l’effort de traitement  pour permettre au modèle de donner une même réponse à une même question. Le cache aide à stocker temporairement des associations figées entre données d’entrée et données de sortie et correspondant aux questions les plus fréquentes du moment. Il est volatil. On vide l’ancien au fur et à mesure qu’on les remplit avec du nouveau. D'un point de vue fondé sur la  modélisation , une fois l’apprentissage terminé, la substance de ChatGPT c’est la masse structurée des 175 milliards de poids. Si cette masse était plus petite, il serait parfaitement possible de la porter sous la forme d’une librairie vers de simples ordinateurs de génération standard. Il ne serait plus nécessaire de la stocker sur des serveurs. Et, on pourrait alors dialoguer avec un mini-ChatGPT sans aucune connexion réseau d’aucun type. Il existe un modèle de 60 GB, testé sur LLAMA, qui rame beaucoup dans cette configuration.</p>  <p> Problème et Conclusion  <br>   <br>Si l’on peut  dialoguer  avec un chatbot, c’est que contrairement au cas de l’aboiement du chien (où le seul résultat est le bruit que l’on entend, et la reconfiguration discrète des schémas cognitifs), la première commande ( prompt ) déclenche  une avalanche de calculs et de très nombreux résultats, dont certains seront stockés  aux fins de réutilisation comme intrants pour une nouvelle séquence de la conversation avec la machine, et d’autres pour d’autres tâches computationnelles, éventuellement dans d’autres services. Par défaut, rien de ceci ne s’évanouit comme par magie. Ce dernier point donne une idée de la difficulté : dans l’hypothèse théorique des ressources illimitées, l’IA ne peut rien  oublier  (rien de ce que le programme génère de nouvelles data disparaît de la machine). Cependant, certaines données de traitement se perdent à défaut que l’on choisisse de les intégrer dans le modèle de calcul originel. Elles seraient pourtant très utiles, mais que voulez-vous ? L’informaticien a rarement le temps de tout faire correctement ! Certaines autres données, parfaitement inutiles, demeureront à tout jamais dans le système d’information  (sauf accidents). Certaines données informatives seront analysées par des humains, ou des machines.</p>
 
 breadcrumbs:
-  - title: >-
-      Technorealisme.org
+  - title: "Technorealisme.org"
     path: "/"
-  - title: >-
-      Manifeste
+  - title: "Manifeste"
     path: "/manifeste/"
-  - title: >-
-      Pour une description de l'IA
+  - title: "Pour une description de l'IA"
     path: "/manifeste/description-ia/"
-  - title: >-
-      IA et Donnée
+  - title: "IA et Donnée"
 
 design:
   full_width: false
@@ -71,12 +66,8 @@ translationKey: communication-website-page-29f6c38d-a5a4-470e-8eaf-8c7368a2ae99
 
 meta_description: >-
   IA et Donnée : nouvelles séquences de 0 et de 1
-
 summary: >-
   <p>L’IA occasionne l’apparition de beaucoup (énormément) de données transformées, c'est-à-dire de nouvelles séquences de 0 et de 1. Ce sont des programmes qui gèrent ce qu’il adviendra de chacune de ces nouvelles séquences.</p>
-
-header_text: >-
-  
 header_cta:
 
 
@@ -87,28 +78,20 @@ contents_reading_time:
 contents:
   - kind: block
     template: chapter
-    title: >-
-      
-    slug: >-
-      
+
+
     ranks:
       base: 2
     top:
       active: false
+
     data:
       layout: no_background
       text: >-
         <p>Comment l’IA se souvient-elle de ce qu’on lui dit ? Ou, plus sérieusement  : comment les ordinateurs conservent-ils les données, et les traces de transformation de ces dernières ?</p>
 
-      notes: >-
-        
 
 
-      alt: >-
-        
-
-      credit: >-
-        
 
 
 
@@ -127,34 +110,27 @@ contents:
         value: >-
           Une erreur courante d’appréciation
         heading: 2
+
     data:
       layout: classic
 
 
   - kind: block
     template: chapter
-    title: >-
-      
-    slug: >-
-      
+
+
     ranks:
       base: 3
     top:
       active: false
+
     data:
       layout: no_background
       text: >-
         <p>Nombreux sont ceux qui considèrent que le résultat qu’obtient ChatGPT, c’est <b>le texte sur l’écran qu’ils voient.</b> Ils ont alors l’impression de dialoguer avec quelqu’un qui se souviendrait du début de la conversation. C’est parce qu’ils ne voient que le <i>résultat pour soi</i> (une image, un morceau de musique, etc.) en croyant qu’il s’agit là du tout de la production artificielle. </p><p>Regardons cela de plus près.</p>
 
-      notes: >-
-        
 
 
-      alt: >-
-        
-
-      credit: >-
-        
 
 
 
@@ -173,34 +149,27 @@ contents:
         value: >-
           Données
         heading: 2
+
     data:
       layout: classic
 
 
   - kind: block
     template: chapter
-    title: >-
-      
-    slug: >-
-      
+
+
     ranks:
       base: 3
     top:
       active: false
+
     data:
       layout: no_background
       text: >-
         <p>Les données ne sont pas nécessairement des renseignements, mais des intrants et extrants destinés au calcul, présents dans des bases plus ou moins structurées.</p><p>On comprend que "ChatGPT peut se souvenir de tout", dans le sens qu’un informaticien peut programmer l’IA pour qu’elle conserve tous les renseignements interprétables ! Il est en revanche intéressant de comprendre si toutes les transformations de données (au sens large) se maintiennent, est-ce que toutes les versions de tous les fichiers subsistent quelque part dans un ordinateur ?</p><p>Distinguons alors : la donnée de sortie de ChatGPT (le texte sur l’écran) de toutes les autres données de traitement données abstraites correspondant aux valeurs des poids, de 0 à 1, dans les modèles d’apprentissage. Les modèles de dernières générations sont de gigantesques réseaux neuronaux composés d’une multitude de couches. Dans le cas de ChatGPT 3, il y a 175 milliards de poids à apprendre, un par neurone.</p><p>ChatGPT produit<b> beaucoup de ces autres données, non présentes sur l’écran</b>. Que devient cette production ? </p>
 
-      notes: >-
-        
 
 
-      alt: >-
-        
-
-      credit: >-
-        
 
 
 
@@ -219,34 +188,28 @@ contents:
         value: >-
           Mémoire
         heading: 2
+
     data:
       layout: classic
 
 
   - kind: block
     template: chapter
-    title: >-
-      
-    slug: >-
-      
+
+
     ranks:
       base: 3
     top:
       active: false
+
     data:
       layout: no_background
       text: >-
         <p>Il y a d’abord <b>plusieurs types de mémoire informatique</b><sup>1 </sup>: volatile (mémoire vive), physique (stockage sur disque), déportée dans les nuages (ou cloud : idem, mais à distance). Autrement dit, en termes de hardware : sous forme magnétique sur un disque dur, voire sous forme physique (stockage cristallin), ou encore biologique (stockage ADN cellulaire). La "mémoire" de l’ordinateur est cependant simplement <b>un concept </b>que l’on emploie pour insister sur la variabilité des temps d’accès à la donnée, et le type de hardware mobilisé. </p><p>À partir de cela, on peut comprendre que <b>les données sur disque ne sont pas effacées sauf en cas de réécriture sur les secteurs</b> qui contenaient les données (ce qui suppose instruction explicite). Il ne s’agit pas de l’équivalent d’un effacement à la <b>gomme </b>: les secteurs sont juste déclarés de nouveau <i>libres</i> jusqu'à la prochaine écriture. </p><p>Ainsi, en première approximation, en langage courant, deux propositions sont à réconcilier. Tout d'abord, <i>l’IA oublie très vite</i> au sens que les données en mémoire vive ne sont retenues que quelques minutes, et que le modèle ne s’enrichit pas instantanément et continument de nouvelles informations (entrantes ou sortantes). Mais, de même, <i>elle n’oublie pas grand-chose</i> parce qu’<b>il faut programmer la libération des espaces-mémoire</b>. Autrement dit, l’historique des transformations de données n’est en principe pas retenu, à moins que le programme ait été conçu pour rendre compte des changements.</p><p>À ce stade, on voit que <b>beaucoup de données s’accumulent</b> suite aux transformations dues aux traitements informatiques. Dans quelle mesure ? Pour répondre à la question de savoir à quel point les données sont rémanentes, il faut encore considérer qu’en pratique, les programmes informatiques connaissent des <i>cycles de vie</i> (qui n’ont évidemment rien à voir avec les mécanismes du vieillissement biologique, même si certains parallèles intéressants pourraient être faits.)</p>
-
       notes: >-
         <p><sup>1</sup> En dehors de l’ordinateur : mémoire humaine, analogique (papier), journalisée, base journalisée</p>
 
 
-      alt: >-
-        
-
-      credit: >-
-        
 
 
 
@@ -265,34 +228,27 @@ contents:
         value: >-
           Mutation
         heading: 2
+
     data:
       layout: classic
 
 
   - kind: block
     template: chapter
-    title: >-
-      
-    slug: >-
-      
+
+
     ranks:
       base: 3
     top:
       active: false
+
     data:
       layout: no_background
       text: >-
         <p>Les informaticiens parlent de DevOps (écrire le programme : <i>Dev</i>. L’entretenir dans un système d’information en évolution : <i>Ops</i>).</p><p>Côté <i>Dev</i>, une fois que ChatGPT est déployé,<b> on pourrait théoriquement détruire tous les corpus qui ont servi à obtenir les données d’entrée : ChatGPT fonctionnerait encore </b>(rien à voir avec un animal qui ressuscite !, c'est simplement au sens que le logiciel peut être programmé pour travailler à partir de données d’abstraction de ces intrants). Concrètement, l’administrateur de ChatGPT va néanmoins conserver durablement une copie de ces corpus pour effectuer d’autres recherches et mettre au point de futurs modèles d’apprentissage, de futures versions, etc.</p><p>Côté <i>Ops</i>, on met au point du cache. <b>Le cache permet d’économiser de l’effort de traitement </b>pour permettre au modèle de donner une même réponse à une même question. Le cache aide à stocker temporairement des associations figées entre données d’entrée et données de sortie et correspondant aux questions les plus fréquentes du moment. Il est volatil. On vide l’ancien au fur et à mesure qu’on les remplit avec du nouveau.</p><p>D'un point de vue fondé sur la <i>modélisation</i>, une fois l’apprentissage terminé, la substance de ChatGPT c’est la masse structurée des 175 milliards de poids. Si cette masse était plus petite, il serait parfaitement possible de la porter sous la forme d’une librairie vers de simples ordinateurs de génération standard. Il ne serait plus nécessaire de la stocker sur des serveurs. Et, on pourrait alors dialoguer avec un mini-ChatGPT sans aucune connexion réseau d’aucun type. Il existe un modèle de 60 GB, testé sur LLAMA, qui rame beaucoup dans cette configuration.</p>
 
-      notes: >-
-        
 
 
-      alt: >-
-        
-
-      credit: >-
-        
 
 
 
@@ -311,34 +267,27 @@ contents:
         value: >-
           Problème et Conclusion
         heading: 2
+
     data:
       layout: classic
 
 
   - kind: block
     template: chapter
-    title: >-
-      
-    slug: >-
-      
+
+
     ranks:
       base: 3
     top:
       active: false
+
     data:
       layout: no_background
       text: >-
         <p>Si l’on peut <i>dialoguer</i> avec un chatbot, c’est que contrairement au cas de l’aboiement du chien (où le seul résultat est le bruit que l’on entend, et la reconfiguration discrète des schémas cognitifs), la première commande (<i>prompt</i>) déclenche <b>une avalanche de calculs et de très nombreux résultats, dont certains seront stockés</b> aux fins de réutilisation comme intrants pour une nouvelle séquence de la conversation avec la machine, et d’autres pour d’autres tâches computationnelles, éventuellement dans d’autres services. Par défaut, rien de ceci ne s’évanouit comme par magie.</p><p>Ce dernier point donne une idée de la difficulté : dans l’hypothèse théorique des ressources illimitées, l’IA ne peut rien <i>oublier</i> (rien de ce que le programme génère de nouvelles data disparaît de la machine). Cependant, certaines données de traitement se perdent à défaut que l’on choisisse de les intégrer dans le modèle de calcul originel. Elles seraient pourtant très utiles, mais que voulez-vous ? L’informaticien a rarement le temps de tout faire correctement !</p><p><b>Certaines autres données, parfaitement inutiles, demeureront à tout jamais dans le système d’information </b>(sauf accidents). Certaines données informatives seront analysées par des humains, ou des machines.</p>
 
-      notes: >-
-        
 
 
-      alt: >-
-        
-
-      credit: >-
-        
 
 
 

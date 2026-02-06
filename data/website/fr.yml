@@ -8,10 +8,8 @@ contents_reading_time:
 contents:
   - kind: block
     template: call_to_action
-    title: >-
-      
-    slug: >-
-      
+
+
     ranks:
       base: 2
     top:
@@ -23,21 +21,18 @@ contents:
       text: >-
         <p>Envie de Technoréalisme ?<br>Suivez-nous sur Linkedin<br>ou contribuez à nos études !</p>
 
-
       buttons:
-        - title: >-
+        - 
+          title: >-
             Suivez-nous sur Linkedin
-
           url: >-
             https://www.linkedin.com/company/technorealisme
-
           target_blank: true
-        - title: >-
+        - 
+          title: >-
             contribuer@technorealisme.org
-
           url: >-
             mailto:contribuer@technorealisme.org
-
           target_blank: false
 
 
