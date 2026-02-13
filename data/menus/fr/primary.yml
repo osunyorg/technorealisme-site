@@ -2,85 +2,116 @@
 title: Menu principal
 items:
 - title: Agenda
+  slug: agenda
   target: "/agenda/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/events"
   file: content/fr/events/_index.html
 - title: Livres
+  slug: livres
   target: "/livres/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/projects"
   file: content/fr/projects/_index.html
 - title: Articles
+  slug: articles
   target: "/articles/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/posts"
   file: content/fr/posts/_index.html
 - title: Manifeste
+  slug: manifeste
   target: ''
   kind: blank
   new_tab: false
   children:
   - title: La mode de l'IA
+    slug: la-mode-de-l-ia
     target: "/manifeste/mode-ia/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/manifeste/mode-ia"
     file: content/fr/pages/manifeste/mode-ia/_index.html
   - title: Dix leçons sur l’IA
+    slug: dix-lecons-sur-l-ia
     target: "/manifeste/ia-dix-lecons/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/manifeste/ia-dix-lecons"
     file: content/fr/pages/manifeste/ia-dix-lecons/_index.html
   - title: Pour une IA de qualité
+    slug: pour-une-ia-de-qualite
     target: "/manifeste/ia-qualite/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/manifeste/ia-qualite"
     file: content/fr/pages/manifeste/ia-qualite/_index.html
   - title: Pour une description de l'IA
+    slug: pour-une-description-de-l-ia
     target: "/manifeste/description-ia/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/manifeste/description-ia"
     file: content/fr/pages/manifeste/description-ia/_index.html
+  descendants_targets:
+  - "/manifeste/description-ia/"
+  - "/manifeste/ia-dix-lecons/"
+  - "/manifeste/ia-qualite/"
+  - "/manifeste/mode-ia/"
   path: "/pages/manifeste"
   file: content/fr/pages/manifeste/_index.html
 - title: Think Tank
+  slug: think-tank
   target: ''
   kind: blank
   new_tab: false
   children:
   - title: À propos
+    slug: a-propos
     target: "/think-tank/technorealisme/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/think-tank/technorealisme"
     file: content/fr/pages/think-tank/technorealisme/_index.html
   - title: Principes
+    slug: principes
     target: "/think-tank/principes/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/think-tank/principes"
     file: content/fr/pages/think-tank/principes/_index.html
   - title: Membres
+    slug: membres
     target: "/think-tank/membres/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/persons"
     file: content/fr/persons/_index.html
+  descendants_targets:
+  - "/think-tank/membres/"
+  - "/think-tank/principes/"
+  - "/think-tank/technorealisme/"
 
