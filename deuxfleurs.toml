@@ -13,3 +13,568 @@ Cache-Control = "max-age=31536000, no-transform, public"
 for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 [headers.values]
 Cache-Control = "max-age=31536000, no-transform, public"
+
+[[redirects]]
+from = "/manifeste/lubies/notions-contestables/outil/index.html"
+to = "/manifeste/mode-ia/ia-outil/"
+
+[[redirects]]
+from = "/equipe/christelle-serou/index.html"
+to = "/think-tank/membres/christelle-serou/"
+
+[[redirects]]
+from = "/equipe/eric-boillaud/index.html"
+to = "/think-tank/membres/eric-boillaud/"
+
+[[redirects]]
+from = "/manifeste/dix-lecons-ia/index.html"
+to = "/manifeste/ia-dix-lecons/"
+
+[[redirects]]
+from = "/manifeste-technorealiste-sur-lia/a-lencontre-de-quelques-lubies-dominantes-sur-lia/des-notions-contestables-inutiles-voire-trompeuses/lia-comme-outil-lillusion-du-controle/index.html"
+to = "/manifeste/mode-ia/ia-outil/"
+
+[[redirects]]
+from = "/technorealistes/dylan-thomas/index.html"
+to = "/think-tank/membres/dylan-thomas/"
+
+[[redirects]]
+from = "/principes/index.html"
+to = "/think-tank/principes/"
+
+[[redirects]]
+from = "/manifeste/meilleure-description/ecriture-de-son-propre-code/index.html"
+to = "/manifeste/description-ia/ia-code/"
+
+[[redirects]]
+from = "/membres/nour-trabelsi/index.html"
+to = "/think-tank/membres/nour-trabelsi/"
+
+[[redirects]]
+from = "/manifeste-technorealiste-sur-lia/pour-une-meilleure-description-de-lia/lia-frugale/index.html"
+to = "/manifeste/description-ia/ia-energie/"
+
+[[redirects]]
+from = "/manifeste-technorealiste-sur-lia/a-lencontre-de-quelques-lubies-dominantes-sur-lia/des-notions-contestables-inutiles-voire-trompeuses/les-modeles-dia-lillusion-de-familiarite/index.html"
+to = "/manifeste/mode-ia/modeles-ia/"
+
+[[redirects]]
+from = "/manifeste/mode-ia/discours-tronques/index.html"
+to = "/manifeste/mode-ia/ia-amelioration/"
+
+[[redirects]]
+from = "/manifeste/meilleure-description/ia-code/index.html"
+to = "/manifeste/description-ia/ia-code/"
+
+[[redirects]]
+from = "/manifeste/meilleure-description/ia-data-1/index.html"
+to = "/manifeste/description-ia/ia-donnee/"
+
+[[redirects]]
+from = "/manifeste/meilleure-description/processus-metier/index.html"
+to = "/manifeste/description-ia/ia-programme/"
+
+[[redirects]]
+from = "/technorealistes/arnaud-levy/index.html"
+to = "/think-tank/membres/arnaud-levy/"
+
+[[redirects]]
+from = "/technorealistes/index.html"
+to = "/think-tank/membres/"
+
+[[redirects]]
+from = "/manifeste/meilleure-description/programme-ia/index.html"
+to = "/manifeste/description-ia/ia-programme/"
+
+[[redirects]]
+from = "/discussions/2023-12-08-nia-non-intelligence-artificielle-ou-la-rage-doffrir-des-couleurs-au-monde/index.html"
+to = "/articles/2023-12-08-nia-non-intelligence-artificielle-ou-la-rage-doffrir-des-couleurs-au-monde/"
+
+[[redirects]]
+from = "/manifeste/dix-lecons/index.html"
+to = "/manifeste/ia-dix-lecons/"
+
+[[redirects]]
+from = "/manifeste/lubies/notions-contestables/autonome/index.html"
+to = "/manifeste/mode-ia/ia-autonome/"
+
+[[redirects]]
+from = "/think-tank/membres/dylan-thomas/actualites/index.html"
+to = "/think-tank/membres/dylan-thomas/articles/"
+
+[[redirects]]
+from = "/manifeste/pour-une-meilleure-description-de-lia/les-programmes-dia-dans-le-cadre-de-processus-metier/index.html"
+to = "/manifeste/description-ia/ia-programme/"
+
+[[redirects]]
+from = "/manifeste/a-lencontre-de-quelques-lubies-dominantes-sur-lia/index.html"
+to = "/manifeste/mode-ia/"
+
+[[redirects]]
+from = "/manifeste/mode-ia/decision-ia/index.html"
+to = "/manifeste/mode-ia/ia-decision/"
+
+[[redirects]]
+from = "/manifeste-technorealiste-sur-lia/a-lencontre-de-quelques-lubies-dominantes-sur-lia/index.html"
+to = "/manifeste/mode-ia/"
+
+[[redirects]]
+from = "/manifeste/intelligence-artificielle-dix-lecons/index.html"
+to = "/manifeste/ia-dix-lecons/"
+
+[[redirects]]
+from = "/think-tank/manifeste/mode-ia/index.html"
+to = "/manifeste/mode-ia/"
+
+[[redirects]]
+from = "/equipe/arnaud-billion/index.html"
+to = "/think-tank/membres/arnaud-billion/"
+
+[[redirects]]
+from = "/membres/arnaud-levy/index.html"
+to = "/think-tank/membres/arnaud-levy/"
+
+[[redirects]]
+from = "/think-tank/membres/martin-bole/index.html"
+to = "/think-tank/membres/martin-bolle/"
+
+[[redirects]]
+from = "/manifeste/lubies/notions-contestables/modeles/index.html"
+to = "/manifeste/mode-ia/modeles-ia/"
+
+[[redirects]]
+from = "/manifeste/meilleure-description/ia-energie/index.html"
+to = "/manifeste/description-ia/ia-energie/"
+
+[[redirects]]
+from = "/equipe/malek-mammar/index.html"
+to = "/think-tank/membres/malek-mammar/"
+
+[[redirects]]
+from = "/membres/arnaud-billion/index.html"
+to = "/think-tank/membres/arnaud-billion/"
+
+[[redirects]]
+from = "/technorealistes/olivier-frerot/index.html"
+to = "/think-tank/membres/olivier-frerot/"
+
+[[redirects]]
+from = "/manifeste-technorealiste-sur-lia/vers-une-ia-de-qualite/index.html"
+to = "/manifeste/ia-qualite/"
+
+[[redirects]]
+from = "/manifeste/mode-ia/notions-contestables/decision-ia/index.html"
+to = "/manifeste/mode-ia/ia-decision/"
+
+[[redirects]]
+from = "/technorealistes/antoine-moreau/index.html"
+to = "/think-tank/membres/antoine-moreau/"
+
+[[redirects]]
+from = "/editions/2024-lettres-de-la-machine-manuel-entree-sortie-ia/index.html"
+to = "/livres/2024-lettres-de-la-machine-manuel-entree-sortie-ia/"
+
+[[redirects]]
+from = "/equipe/flavien-volken/index.html"
+to = "/think-tank/membres/flavien-volken/"
+
+[[redirects]]
+from = "/introduction/index.html"
+to = "/think-tank/technorealisme/"
+
+[[redirects]]
+from = "/technorealistes/eric-boillaud/index.html"
+to = "/think-tank/membres/eric-boillaud/"
+
+[[redirects]]
+from = "/manifeste/lubies/notions-contestables/systeme/index.html"
+to = "/manifeste/mode-ia/ia-systeme/"
+
+[[redirects]]
+from = "/manifeste/meilleure-description/ia-frugale/index.html"
+to = "/manifeste/description-ia/ia-energie/"
+
+[[redirects]]
+from = "/think-tank/manifeste/description-ia/index.html"
+to = "/manifeste/description-ia/"
+
+[[redirects]]
+from = "/equipe/anaelle-martin/index.html"
+to = "/think-tank/membres/anaelle-martin/"
+
+[[redirects]]
+from = "/discussions/2024-03-08-collection-imaginaires/index.html"
+to = "/articles/2024-03-08-collection-imaginaires/"
+
+[[redirects]]
+from = "/manifeste/lubies/index.html"
+to = "/manifeste/mode-ia/"
+
+[[redirects]]
+from = "/manifeste/meilleure-description/les-programmes-dia-dans-le-cadre-de-processus-metier/index.html"
+to = "/manifeste/description-ia/ia-programme/"
+
+[[redirects]]
+from = "/equipe/dylan-thomas/index.html"
+to = "/think-tank/membres/dylan-thomas/"
+
+[[redirects]]
+from = "/membres/antoine-moreau/index.html"
+to = "/think-tank/membres/antoine-moreau/"
+
+[[redirects]]
+from = "/actualites/2023-12-08-nia-non-intelligence-artificielle-ou-la-rage-doffrir-des-couleurs-au-monde/index.html"
+to = "/articles/2023-12-08-nia-non-intelligence-artificielle-ou-la-rage-doffrir-des-couleurs-au-monde/"
+
+[[redirects]]
+from = "/membres/eric-boillaud/index.html"
+to = "/think-tank/membres/eric-boillaud/"
+
+[[redirects]]
+from = "/think-tank/manifeste/index.html"
+to = "/manifeste/"
+
+[[redirects]]
+from = "/ouvrages/index.html"
+to = "/livres/"
+
+[[redirects]]
+from = "/technorealistes/malek-mammar/index.html"
+to = "/think-tank/membres/malek-mammar/"
+
+[[redirects]]
+from = "/manifeste-technorealiste-sur-lia/pour-une-meilleure-description-de-lia/les-programmes-dia-dans-le-cadre-de-processus-metier/index.html"
+to = "/manifeste/description-ia/ia-programme/"
+
+[[redirects]]
+from = "/manifeste-technorealiste-sur-lia/a-lencontre-de-quelques-lubies-dominantes-sur-lia/des-notions-contestables-inutiles-voire-trompeuses/lia-comme-algorithme/index.html"
+to = "/manifeste/mode-ia/ia-algorithme/"
+
+[[redirects]]
+from = "/manifeste/mode-ia/notions-contestables/ia-systeme/index.html"
+to = "/manifeste/mode-ia/ia-systeme/"
+
+[[redirects]]
+from = "/editions/index.html"
+to = "/livres/"
+
+[[redirects]]
+from = "/manifeste/mode-ia/notions-contestables/modeles-ia/index.html"
+to = "/manifeste/mode-ia/modeles-ia/"
+
+[[redirects]]
+from = "/manifeste-technorealiste-sur-lia/pour-une-meilleure-description-de-lia/index.html"
+to = "/manifeste/description-ia/"
+
+[[redirects]]
+from = "/technorealistes/nour-trabelsi/index.html"
+to = "/think-tank/membres/nour-trabelsi/"
+
+[[redirects]]
+from = "/membres/flavien-volken/index.html"
+to = "/think-tank/membres/flavien-volken/"
+
+[[redirects]]
+from = "/manifeste-technorealiste-sur-lia/a-lencontre-de-quelques-lubies-dominantes-sur-lia/des-notions-contestables-inutiles-voire-trompeuses/les-donnees-de-lia-lillusion-du-consentement/index.html"
+to = "/manifeste/mode-ia/ia-data/"
+
+[[redirects]]
+from = "/manifeste-technorealiste-sur-lia/a-lencontre-de-quelques-lubies-dominantes-sur-lia/lia-comme-algorithme/index.html"
+to = "/manifeste/mode-ia/ia-algorithme/"
+
+[[redirects]]
+from = "/manifeste/meilleure-description/gestion-de-son-propre-cloud/index.html"
+to = "/manifeste/description-ia/ia-cloud/"
+
+[[redirects]]
+from = "/manifeste-technorealiste-sur-lia/a-lencontre-de-quelques-lubies-dominantes-sur-lia/des-notions-contestables-inutiles-voire-trompeuses/lia-et-la-decision-lillusion-de-la-raison/index.html"
+to = "/manifeste/mode-ia/ia-decision/"
+
+[[redirects]]
+from = "/manifeste-technorealiste-sur-lia/lia-comme-algorithme/index.html"
+to = "/manifeste/mode-ia/ia-algorithme/"
+
+[[redirects]]
+from = "/manifeste/lubies/notions-contestables/algorithme/index.html"
+to = "/manifeste/mode-ia/ia-algorithme/"
+
+[[redirects]]
+from = "/membres/maxime-derian/index.html"
+to = "/think-tank/membres/maxime-derian/"
+
+[[redirects]]
+from = "/manifeste-technorealiste-sur-lia/pour-une-meilleure-description-de-lia/la-retention-de-donnees-dans-les-programmes-dia/index.html"
+to = "/manifeste/description-ia/ia-donnee/"
+
+[[redirects]]
+from = "/manifeste/meilleure-description/ia-donnee/index.html"
+to = "/manifeste/description-ia/ia-donnee/"
+
+[[redirects]]
+from = "/manifeste/mode-ia/notions-contestables/ia-outil/index.html"
+to = "/manifeste/mode-ia/ia-outil/"
+
+[[redirects]]
+from = "/membres/dylan-thomas/actualites/index.html"
+to = "/think-tank/membres/dylan-thomas/articles/"
+
+[[redirects]]
+from = "/technorealistes/arnaud-billion/index.html"
+to = "/think-tank/membres/arnaud-billion/"
+
+[[redirects]]
+from = "/agenda/2024/premiere-journee-d-etude/index.html"
+to = "/agenda/2024/journee-etudes-01/"
+
+[[redirects]]
+from = "/membres/malek-mammar/index.html"
+to = "/think-tank/membres/malek-mammar/"
+
+[[redirects]]
+from = "/manifeste/mode-ia/notions-contestables/ia-algorithme/index.html"
+to = "/manifeste/mode-ia/ia-algorithme/"
+
+[[redirects]]
+from = "/equipe/antoine-moreau/index.html"
+to = "/think-tank/membres/antoine-moreau/"
+
+[[redirects]]
+from = "/manifeste/mode-ia/notions-contestables/ia-autonome/index.html"
+to = "/manifeste/mode-ia/ia-autonome/"
+
+[[redirects]]
+from = "/actualites/index.html"
+to = "/articles/"
+
+[[redirects]]
+from = "/manifeste/lubies/notions-contestables/donnees/index.html"
+to = "/manifeste/mode-ia/ia-data/"
+
+[[redirects]]
+from = "/manifeste/meilleure-description/ia-cloud/index.html"
+to = "/manifeste/description-ia/ia-cloud/"
+
+[[redirects]]
+from = "/manifeste-technorealiste-sur-lia/equipe-editoriale/index.html"
+to = "/equipe-editoriale/"
+
+[[redirects]]
+from = "/membres/imane-idrissi/index.html"
+to = "/think-tank/membres/imane-idrissi/"
+
+[[redirects]]
+from = "/manifeste/meilleure-description/retention-de-donnees/index.html"
+to = "/manifeste/description-ia/ia-donnee/"
+
+[[redirects]]
+from = "/equipe/nour-trabelsi/index.html"
+to = "/think-tank/membres/nour-trabelsi/"
+
+[[redirects]]
+from = "/manifeste/meilleure-description/index.html"
+to = "/manifeste/description-ia/"
+
+[[redirects]]
+from = "/membres/index.html"
+to = "/think-tank/membres/"
+
+[[redirects]]
+from = "/manifeste/lubies/notions-contestables/decision/index.html"
+to = "/manifeste/mode-ia/ia-decision/"
+
+[[redirects]]
+from = "/equipe/olivier-frerot/index.html"
+to = "/think-tank/membres/olivier-frerot/"
+
+[[redirects]]
+from = "/manifeste/mode-ia/notions-contestables/ia-data/index.html"
+to = "/manifeste/mode-ia/ia-data/"
+
+[[redirects]]
+from = "/actualites/2025-05-01-ia-et-son/index.html"
+to = "/articles/2025-05-01-ia-et-son/"
+
+[[redirects]]
+from = "/manifeste/meilleure-description/frugale/index.html"
+to = "/manifeste/description-ia/ia-energie/"
+
+[[redirects]]
+from = "/manifeste/pour-une-meilleure-description-de-lia/index.html"
+to = "/manifeste/description-ia/"
+
+[[redirects]]
+from = "/equipe/maxime-derian/index.html"
+to = "/think-tank/membres/maxime-derian/"
+
+[[redirects]]
+from = "/manifeste-technorealiste-sur-lia/introduction/index.html"
+to = "/think-tank/technorealisme/"
+
+[[redirects]]
+from = "/manifeste/pour-une-ia-de-qualite/index.html"
+to = "/manifeste/ia-qualite/"
+
+[[redirects]]
+from = "/technorealisme/index.html"
+to = "/think-tank/technorealisme/"
+
+[[redirects]]
+from = "/technorealistes/dylan-thomas/discussions/index.html"
+to = "/think-tank/membres/dylan-thomas/articles/"
+
+[[redirects]]
+from = "/membres/henri-albert/index.html"
+to = "/think-tank/membres/henri-albert/"
+
+[[redirects]]
+from = "/manifeste-technorealiste-sur-lia/pour-une-meilleure-description-de-lia/la-gestion-par-lia-de-son-propre-cloud/index.html"
+to = "/manifeste/description-ia/ia-cloud/"
+
+[[redirects]]
+from = "/agenda/2025/beizh-data-day-2025/index.html"
+to = "/agenda/2025/breizh-data-day-2025/"
+
+[[redirects]]
+from = "/equipe/arnaud-levy/index.html"
+to = "/think-tank/membres/arnaud-levy/"
+
+[[redirects]]
+from = "/manifeste/introduction/index.html"
+to = "/think-tank/technorealisme/"
+
+[[redirects]]
+from = "/manifeste/meilleure-description/retention-donnees/index.html"
+to = "/manifeste/description-ia/ia-donnee/"
+
+[[redirects]]
+from = "/discussions/2024-03-08-sans-titre/index.html"
+to = "/articles/2024-03-08-collection-imaginaires/"
+
+[[redirects]]
+from = "/manifeste-technorealiste-sur-lia/pour-une-meilleure-description-de-lia/lecriture-par-lia-de-son-propre-code/index.html"
+to = "/manifeste/description-ia/ia-code/"
+
+[[redirects]]
+from = "/agenda/2024/1ere-journee-de-technorealisme/index.html"
+to = "/agenda/2024/journee-etudes-01/"
+
+[[redirects]]
+from = "/manifeste/vers-une-ia-de-qualite/index.html"
+to = "/manifeste/ia-qualite/"
+
+[[redirects]]
+from = "/manifeste-technorealiste-sur-lia/index.html"
+to = "/manifeste/"
+
+[[redirects]]
+from = "/projets/2024-lettres-de-la-machine-manuel-entree-sortie-ia/index.html"
+to = "/livres/2024-lettres-de-la-machine-manuel-entree-sortie-ia/"
+
+[[redirects]]
+from = "/technorealistes/henri-albert/index.html"
+to = "/think-tank/membres/henri-albert/"
+
+[[redirects]]
+from = "/membres/anaelle-martin/index.html"
+to = "/think-tank/membres/anaelle-martin/"
+
+[[redirects]]
+from = "/membres/christelle-serou/index.html"
+to = "/think-tank/membres/christelle-serou/"
+
+[[redirects]]
+from = "/membres/dylan-thomas/index.html"
+to = "/think-tank/membres/dylan-thomas/"
+
+[[redirects]]
+from = "/equipe/index.html"
+to = "/think-tank/membres/"
+
+[[redirects]]
+from = "/manifeste-technorealiste-sur-lia/dix-lecons-sur-lia-a-lusage-des-honnetes-gens/index.html"
+to = "/manifeste/ia-dix-lecons/"
+
+[[redirects]]
+from = "/manifeste/dix-lecons-sur-lia-a-lusage-des-honnetes-gens/index.html"
+to = "/manifeste/ia-dix-lecons/"
+
+[[redirects]]
+from = "/membres/olivier-frerot/index.html"
+to = "/think-tank/membres/olivier-frerot/"
+
+[[redirects]]
+from = "/equipe/imane-idrissi/index.html"
+to = "/think-tank/membres/imane-idrissi/"
+
+[[redirects]]
+from = "/manifeste-technorealiste-sur-lia/a-lencontre-de-quelques-lubies-dominantes-sur-lia/des-notions-contestables-inutiles-voire-trompeuses/lia-comme-systeme-lillusion-de-cloisonnement/index.html"
+to = "/manifeste/mode-ia/ia-systeme/"
+
+[[redirects]]
+from = "/equipe/equipe-editoriale/index.html"
+to = "/equipe-editoriale/"
+
+[[redirects]]
+from = "/dix-lecons-sur-lia-a-lusage-des-honnetes-gens/index.html"
+to = "/manifeste/ia-dix-lecons/"
+
+[[redirects]]
+from = "/discussions/2024-03-08-collection-imaginaire/index.html"
+to = "/articles/2024-03-08-collection-imaginaires/"
+
+[[redirects]]
+from = "/manifeste-technorealiste-sur-lia/a-lencontre-de-quelques-lubies-dominantes-sur-lia/des-notions-contestables-inutiles-voire-trompeuses/lia-autonome-et-automatique-lillusion-du-vivant/index.html"
+to = "/manifeste/mode-ia/ia-autonome/"
+
+[[redirects]]
+from = "/technorealistes/imane-idrissi/index.html"
+to = "/think-tank/membres/imane-idrissi/"
+
+[[redirects]]
+from = "/think-tank/membres/patrice-lazareff/actualites/index.html"
+to = "/think-tank/membres/patrice-lazareff/articles/"
+
+[[redirects]]
+from = "/projets/index.html"
+to = "/livres/"
+
+[[redirects]]
+from = "/technorealistes/flavien-volken/index.html"
+to = "/think-tank/membres/flavien-volken/"
+
+[[redirects]]
+from = "/technorealistes/maxime-derian/index.html"
+to = "/think-tank/membres/maxime-derian/"
+
+[[redirects]]
+from = "/equipe/dylan-thomas/discussions/index.html"
+to = "/think-tank/membres/dylan-thomas/articles/"
+
+[[redirects]]
+from = "/discussions/2024-03-08-mirage-numerique/index.html"
+to = "/articles/2024-03-08-collection-imaginaires/"
+
+[[redirects]]
+from = "/technorealistes/christelle-serou/index.html"
+to = "/think-tank/membres/christelle-serou/"
+
+[[redirects]]
+from = "/actualites/2024-03-08-collection-imaginaires/index.html"
+to = "/articles/2024-03-08-collection-imaginaires/"
+
+[[redirects]]
+from = "/equipe/henri-albert/index.html"
+to = "/think-tank/membres/henri-albert/"
+
+[[redirects]]
+from = "/technorealistes/anaelle-martin/index.html"
+to = "/think-tank/membres/anaelle-martin/"
+
+[[redirects]]
+from = "/manifeste-technorealiste-sur-lia/introduction/dix-lecons-sur-lia-a-lusage-des-honnetes-gens/index.html"
+to = "/manifeste/ia-dix-lecons/"
+
+[[redirects]]
+from = "/discussions/index.html"
+to = "/articles/"
+
