@@ -88,7 +88,7 @@ to = "/manifeste/description-ia/ia-programme/"
 
 [[redirects]]
 from = "/discussions/2023-12-08-nia-non-intelligence-artificielle-ou-la-rage-doffrir-des-couleurs-au-monde/index.html"
-to = "/articles/2023-12-08-nia-non-intelligence-artificielle-ou-la-rage-doffrir-des-couleurs-au-monde/"
+to = "/articles/2026-05-06-nia-non-intelligence-artificielle-ou-la-rage-doffrir-des-couleurs-au-monde/"
 
 [[redirects]]
 from = "/manifeste/dix-lecons/index.html"
@@ -224,7 +224,7 @@ to = "/think-tank/membres/antoine-moreau/"
 
 [[redirects]]
 from = "/actualites/2023-12-08-nia-non-intelligence-artificielle-ou-la-rage-doffrir-des-couleurs-au-monde/index.html"
-to = "/articles/2023-12-08-nia-non-intelligence-artificielle-ou-la-rage-doffrir-des-couleurs-au-monde/"
+to = "/articles/2026-05-06-nia-non-intelligence-artificielle-ou-la-rage-doffrir-des-couleurs-au-monde/"
 
 [[redirects]]
 from = "/membres/eric-boillaud/index.html"
@@ -573,6 +573,10 @@ to = "/think-tank/membres/anaelle-martin/"
 [[redirects]]
 from = "/manifeste-technorealiste-sur-lia/introduction/dix-lecons-sur-lia-a-lusage-des-honnetes-gens/index.html"
 to = "/manifeste/ia-dix-lecons/"
+
+[[redirects]]
+from = "/articles/2023-12-08-nia-non-intelligence-artificielle-ou-la-rage-doffrir-des-couleurs-au-monde/index.html"
+to = "/articles/2026-05-06-nia-non-intelligence-artificielle-ou-la-rage-doffrir-des-couleurs-au-monde/"
 
 [[redirects]]
 from = "/discussions/index.html"
