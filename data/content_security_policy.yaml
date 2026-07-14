@@ -7,3 +7,4 @@ allowed_domains:
   - "tile.openstreetmap.org"
   - "plausible.io"
   - "www.google.com"
+  - "open.spotify.com"
