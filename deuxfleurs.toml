@@ -183,6 +183,10 @@ from = "/equipe/flavien-volken/index.html"
 to = "/think-tank/membres/flavien-volken/"
 
 [[redirects]]
+from = "/equipe/arnaud-billion/discussions/index.html"
+to = "/think-tank/membres/arnaud-billion/articles/"
+
+[[redirects]]
 from = "/introduction/index.html"
 to = "/think-tank/technorealisme/"
 
