@@ -9,7 +9,18 @@ fr:
   buildFuture: true
   params:
     contact_details:
+      emails:
+        email:
+          label: >-
+            contribuer@technorealisme.org
+          value: >-
+            mailto:contribuer@technorealisme.org
       social_networks:
+        github:
+          label: >-
+            noesya/technorealisme-site
+          value: >-
+            https://github.com/noesya/technorealisme-site
         linkedin:
           label: >-
             technorealisme
