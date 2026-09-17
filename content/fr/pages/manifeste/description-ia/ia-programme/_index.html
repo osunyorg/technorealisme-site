@@ -108,9 +108,6 @@ contents:
 
 
 
-
-
-
   - kind: block
     template: title
     title: >-
@@ -146,9 +143,6 @@ contents:
         <p>L'IA est installée comme un logiciel (qu'elle est) sur un ordinateur.</p><p>Il faut considérer le lien indéfectible, la continuité réelle et inévitable entre IA, logiciel, instructions, procédures, bureaucratie, et mécanisation des rapports normatifs y compris juridiques. On ne peut pas y échapper, et il paraît extravagant que cette dimension soit très rarement relevée. </p><p>Ceci convoque des problématiques d’intégration horizontale : le programme informatique (y compris celui qui mobilise de l’IA) sera doté de connecteurs (ou API, Application Programming Interface) en amont et en aval, afin de créer un flux d’activités, ou plus exactement d’automatiser des séquences de tâches (workflow). </p><p>Le discours théorique sur l’IA néglige systématiquement cet aspect  : il préfère considérer que l’IA est un outil pour l’utilisateur, et se focalise sur le<b> résultat sur l'écran</b>, solution d'un calcul. Mais bien au contraire :<b> plus d’IA signifie plus de logiciels</b> (puisque l’IA est un logiciel à installer sur d’autres logiciels, en attente de nouveaux logiciels) soit plus d’instructions et procédures, donc plus de bureaucratie. Croyant utiliser un outil, l’utilisateur abonde en fait à un immense système bureaucratique! En outre, on peut penser que la mise en place d’une nouvelle IA n’est possible que dans le cadre d’une organisation déjà fortement bureaucratisée. Les startupers ne s’intéressent qu’à des logiciels de type standalone, mais leur déploiement supposerait une intégration et un interfaçage à l’intérieur de business process existants, pour abonder à ce que l’on désigne souvent par “marché”. Il faudrait encore distinguer l’IA accomplissant une tâche, et la dimension d’automatisation de process à une autre échelle.</p><p>Avant d’expliquer les bénéfices théoriques que l’on attend d’une nouvelle IA, on devrait <b>toujours d’abord se demander si ce niveau de bureaucratisation n’est pas déjà trop élevé</b>. L’IA serait alors mobilisée pour réduire la bureaucratie (ce qui supposerait de nouveaux critères d’informatisation) et non pour la renforcer encore plus.</p><p>Ceci fait aussi comprendre que l’extrant de l’IA n’est pas forcément une solution pratique fournie par un outil, mais seulement le résultat d’un calcul. <sup>[1]</sup> </p>
       notes: >-
         <p><sup>[1]</sup> Une solution, c’est un tout cohérent visant une finalité définie ou prédéfinie mais disposant de flexibilité dans la gestion des degrés de complexité propres aux situations.</p>
-
-
-
 
 
   - kind: block
@@ -188,9 +182,6 @@ contents:
         <p>[1] https://fr.m.wikipedia.org/wiki/Couche_8#/media/Fichier%3AOSI_user_layers.png</p>
 
 
-
-
-
   - kind: block
     template: title
     title: >-
@@ -224,9 +215,6 @@ contents:
       layout: no_background
       text: >-
         <p>Des « <b>effets de bord</b> » (des reconfigurations imprévues, éventuellement invisibles mais en tout cas gênantes) apparaissent souvent en informatique déployée. Ils surgissent en particulier, s’agissant d’IA, du fait des flux de rétroaction (feedback loop) - le flux de sortie dont la fonction est de venir moduler le flux d'entrée.</p><p>Nous relevons à ce feedback au moins 3 couples {cible, fonction} usuels   : <br> 1 - {le modèle de L'IA, entraînement}   : c'est ici que l'on retrouve les effets de bord les plus imprévisibles. Par exemple, on continue l'entraînement du modèle avec comme source les entrées utilisateurs ou des requêtes web. Ceci provoque ce que l’on peut nommer une « dérive des modèles »<br> 2 - {l'utilisateur, médiation sociale}   : la censure des sorties selon des règles donnés (morales, législatives, fact checking, etc). Par exemple, l'utilisateur demande la recette d'explosif, la surcouche de l'IA remplace la réponse par un message prédéfini.<br> 3 - {le système, remontée d'information}   : autrement dit du "renseignement 2.0". Par exemple, un mail est envoyé aux autorités pour informer que l'utilisateur précédant cherche absolument à créer des explosifs.</p><p>Peut-on y remédier ?<br><br>Les points 2 et 3 sont “auditables” (on peut s’en occuper si l’on a le temps) puisque advenant dans la surcouche. Il s'agit concrètement de lignes de code sur lesquelles on peut faire des tests unitaires, techniques, fonctionnels ou autres. Ainsi dans certains cas, lorsque l’on dispose concrètement des ressources adéquates, l’effet de bord est maîtrisable.</p><p>Le point 1 est plus complexe à auditer   : le test unitaire peut donner quelques indications mais n'assure en rien la conformité, puisque l’effet de dérive est continu. Il ne s'agit plus ici de questionner le traitement de la donnée flux par flux mais globalement, or les systèmes récents sont basés sur des couples d'entrée pour être performants. Il n'est pas possible d’investiguer les couples (“brutforcer”) un par un, parce qu’il y a trop entrées et résultats possibles.</p>
-
-
-
 
 
 
@@ -266,9 +254,6 @@ contents:
 
 
 
-
-
-
   - kind: block
     template: title
     title: >-
@@ -302,9 +287,6 @@ contents:
       layout: no_background
       text: >-
         <p>Ainsi, un problème majeur avec les programmes d’IA, c’est que <b>le reparamétrage automatique et les difficultés d’intégration et de maintenance causent des transformations internes du logiciel</b>, des effets de dérive, et des effets de bord. De la sorte, les solutions obtenues dans l’ordinateur sont toujours un peu moins bonnes qu’espérées à cause des paramétrages et calages qu’elles nécessitent.</p><p>En-dehors de l’ordinateur, il faut vraiment compter sur la chance pour imaginer que ces imprévus vont toujours s’avérer favorables. A l'inverse: à l’intérieur de l’ordinateur, si l’on dispose d’un temps illimité, rien d’imprévu ne peut se passer.</p>
-
-
-
 
 
 
