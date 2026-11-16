@@ -503,6 +503,10 @@ from = "/equipe/index.html"
 to = "/think-tank/membres/"
 
 [[redirects]]
+from = "/articles/2026-06-18-ia-en-entreprise-le-mythe-de-la-maitrise-totale-1/index.html"
+to = "/articles/2026-06-18-ia-en-entreprise-le-mythe-de-la-maitrise-totale/"
+
+[[redirects]]
 from = "/manifeste-technorealiste-sur-lia/dix-lecons-sur-lia-a-lusage-des-honnetes-gens/index.html"
 to = "/manifeste/ia-dix-lecons/"
 
