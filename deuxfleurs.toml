@@ -347,6 +347,10 @@ from = "/equipe/antoine-moreau/index.html"
 to = "/think-tank/membres/antoine-moreau/"
 
 [[redirects]]
+from = "/agenda/2026/generation-ai-2026/index.html"
+to = "/agenda/2026/fost-2026/"
+
+[[redirects]]
 from = "/manifeste/mode-ia/notions-contestables/ia-autonome/index.html"
 to = "/manifeste/mode-ia/ia-autonome/"
 
