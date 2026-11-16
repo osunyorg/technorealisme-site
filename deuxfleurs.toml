@@ -235,6 +235,10 @@ from = "/actualites/2023-12-08-nia-non-intelligence-artificielle-ou-la-rage-doff
 to = "/articles/2023-12-08-nia-non-intelligence-artificielle-ou-la-rage-doffrir-des-couleurs-au-monde/"
 
 [[redirects]]
+from = "/articles/2025-12-11-ia-vue-europe-anaelle-martin/index.html"
+to = "/articles/2025-12-11-saf-ia-podcast-ia-vue-europe-anaelle-martin/"
+
+[[redirects]]
 from = "/membres/eric-boillaud/index.html"
 to = "/think-tank/membres/eric-boillaud/"
 
