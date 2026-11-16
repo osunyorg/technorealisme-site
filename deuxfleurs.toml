@@ -255,6 +255,10 @@ from = "/manifeste-technorealiste-sur-lia/pour-une-meilleure-description-de-lia/
 to = "/manifeste/description-ia/ia-programme/"
 
 [[redirects]]
+from = "/articles/2026-06-15-ia-au-travail-quand-lalgorithme-amplifie-les-discriminations/index.html"
+to = "/articles/2026-06-15-ia-au-travail-quand-algorithme-amplifie-les-discriminations/"
+
+[[redirects]]
 from = "/manifeste-technorealiste-sur-lia/a-lencontre-de-quelques-lubies-dominantes-sur-lia/des-notions-contestables-inutiles-voire-trompeuses/lia-comme-algorithme/index.html"
 to = "/manifeste/mode-ia/ia-algorithme/"
 
